@@ -1,0 +1,5756 @@
+6-Monoacetylmorphine
+Morphine, free
+Morphine-glucuronide, bound
+Morphine, total
+Codeine
+Methamphetamine
+Amphetamine
+Ethanol
+Acetone
+Methadone
+Ethanol
+Acetone
+Zolpidem
+Ethanol
+Acetone
+No controlled substance(s) or common ph
+Ethanol
+Acetone
+No controlled substance(s) or common ph
+Ethanol
+Acetone
+Ethanol
+Acetone
+Citalopram/Escitalopram
+Diazepam
+Nordiazepam
+Temazepam
+Oxycodone
+Cyclobenzaprine
+Ethanol
+Acetone
+Cannabinoids
+Cannabinoids
+Ethanol
+Acetone
+Citalopram/Escitalopram
+Cannabinoids
+Ethanol
+Acetone
+Cannabinoids
+Amphetamine
+Methamphetamine
+Ethanol
+Acetone
+Cannabinoids
+Methamphetamine
+Amphetamine
+Ethanol
+Acetone
+Ethanol
+Acetone
+Methadone
+7-Aminoclonazepam
+Ethanol
+Acetone
+Cannabinoids
+Ethanol
+Acetone
+Oxycodone
+7-Aminoclonazepam
+Morphine, free
+Morphine-glucuronide, bound
+Morphine, total
+Codeine
+Ethanol
+Acetone
+Hydrocodone
+Dihydrocodeine
+Ethanol
+Acetone
+Cocaine
+Benzoylecgonine
+Ecgonine methyl ester
+Fentanyl
+Methamphetamine
+Benzoylecgonine
+Ethanol
+Acetone
+Cannabinoids
+Ethanol
+Acetone
+Cannabinoids
+Ethanol
+Acetone
+Acetaminophen
+Promethazine
+Ethanol
+Acetone
+No controlled substance(s) or common ph
+Ethanol
+Acetone
+No controlled substance(s) or common ph
+Ethanol
+Acetone
+Cannabinoids
+Lidocaine
+Ethanol
+Acetone
+Ethanol
+Acetone
+No controlled substance(s) or common ph
+No controlled substance(s) or common ph
+Ethanol
+Acetone
+No controlled substance(s) or common ph
+Ethanol
+Acetone
+No controlled substance(s) or common ph
+Ethanol
+Acetone
+Ethanol
+Acetone
+No controlled substance(s) or common ph
+Ethanol
+Acetone
+No controlled substance(s) or common ph
+Trazodone
+Ethanol
+Acetone
+Ethanol
+Acetone
+Cannabinoids
+Diazepam
+Nordiazepam
+Temazepam
+Venlafaxine
+Zolpidem
+Oxycodone
+Ethanol
+Acetone
+Morphine, free
+Morphine-glucuronide, bound
+Morphine, total
+Codeine
+Lorazepam
+Nordiazepam
+Ethanol
+Acetone
+Cocaine
+Ecgonine methyl ester
+Benzoylecgonine
+Morphine, free
+Morphine-glucuronide, bound
+Morphine, total
+6-Monoacetylmorphine
+Codeine
+Ethanol
+Acetone
+Hydromorphone
+Fentanyl
+Amitriptyline
+Nortriptyline
+Ethanol
+Acetone
+Cannabinoids
+Methadone
+Morphine, free
+Morphine-glucuronide, bound
+Tramadol
+Ethanol
+Acetone
+Ethanol
+Acetone
+Morphine, free
+Morphine-glucuronide, bound
+Morphine, total
+Cyclobenzaprine
+Diphenhydramine
+Ethanol
+Acetone
+Morphine, free
+Morphine-glucuronide, bound
+Morphine, total
+Mirtazapine
+Cannabinoids
+Ethanol
+Acetone
+No controlled substance(s) or common ph
+Ethanol
+Acetone
+No controlled substance(s) or common ph
+Ethanol
+Acetone
+No controlled substance(s) or common ph
+Ethanol
+Acetone
+Ethanol
+Acetone
+Cannabinoids
+No controlled substance(s) or common ph
+Ethanol
+Acetone
+Ethanol
+Acetone
+Morphine, free
+Morphine-glucuronide, bound
+Morphine, total
+6-Monoacetylmorphine
+Codeine
+Alprazolam
+Ethanol
+Acetone
+Cannabinoids
+Citalopram/Escitalopram
+No controlled substance(s) or common ph
+Ethanol
+Acetone
+Amphetamine
+Methamphetamine
+Codeine
+Morphine, free
+Morphine-glucuronide, bound
+Morphine, total
+7-Aminoclonazepam
+Diazepam
+Nordiazepam
+Ethanol
+Acetone
+Ethanol
+Acetone
+Olanzapine
+Hydrocodone
+Dihydrocodeine
+Hydromorphone
+Ethanol
+Acetone
+Cannabinoids
+Benzoylecgonine
+Gabapentin
+Lidocaine
+Ethanol
+Acetone
+Cannabinoids
+Ethanol
+Acetone
+Oxycodone
+Gabapentin
+Zolpidem
+Alprazolam
+Diazepam
+Nordiazepam
+Promethazine
+Diphenhydramine
+Dextromethorphan
+Ethanol
+Acetone
+Carboxyhemoglobin (COHb)
+Methamphetamine
+Amphetamine
+Ethanol
+Acetone
+Ethanol
+Acetone
+Citalopram/Escitalopram
+Oxycodone
+Tramadol
+Zolpidem
+Morphine, free
+Morphine-glucuronide, bound
+Morphine, total
+Codeine
+No controlled substance(s) or common ph
+Ethanol
+Acetone
+No controlled substance(s) or common ph
+Ethanol
+Acetone
+Methamphetamine
+Amphetamine
+Ethanol
+Acetone
+Ethanol
+Acetone
+Bupropion
+Trazodone
+Nordiazepam
+Ethanol
+Acetone
+Methadone
+Citalopram/Escitalopram
+Ethanol
+Acetone
+Cannabinoids
+Carisoprodol
+Meprobamate
+No controlled substance(s) or common ph
+Ethanol
+Acetone
+Methamphetamine
+Amphetamine
+Ethanol
+Acetone
+No controlled substance(s) or common ph
+Ethanol
+Acetone
+Cannabinoids
+Ethanol
+Acetone
+Cannabinoids
+Oxycodone
+Ethanol
+Acetone
+Ethanol
+Acetone
+Cannabinoids
+Methadone
+Methamphetamine
+Amphetamine
+Quetiapine
+7-Aminoclonazepam
+Ethanol
+Acetone
+Amitriptyline
+Nortriptyline
+7-Aminoclonazepam
+Codeine
+Morphine, free
+Morphine-glucuronide, bound
+Morphine, total
+No controlled substance(s) or common ph
+Ethanol
+Acetone
+Ethanol
+Acetone
+Tramadol
+7-Aminoclonazepam
+Diphenhydramine
+Hydrocodone
+Dihydrocodeine
+Ethanol
+Acetone
+Ethanol
+Acetone
+No controlled substance(s) or common ph
+Cannabinoids
+Ethanol
+Acetone
+Methamphetamine
+Amphetamine
+Ethanol
+Acetone
+Morphine, free
+Morphine-glucuronide, bound
+Morphine, total
+Codeine
+Cannabinoids
+Amphetamine
+Methamphetamine
+No controlled substance(s) or common ph
+Ethanol
+Acetone
+Cannabinoids
+Methadone
+Hydrocodone
+Dihydrocodeine
+Ethanol
+Acetone
+7-Aminoclonazepam
+Morphine, free
+Morphine-glucuronide, bound
+Morphine, total
+Codeine
+Fentanyl
+Hydrocodone
+Dihydrocodeine
+Ethanol
+Acetone
+Cannabinoids
+Morphine, free
+Morphine-glucuronide, bound
+Morphine, total
+Gabapentin
+Diphenhydramine
+Ethanol
+Acetone
+7-Aminoclonazepam
+Hydrocodone
+Acetaminophen
+Carisoprodol
+Meprobamate
+Ethanol
+Acetone
+Cannabinoids
+Methamphetamine
+Amphetamine
+Morphine, free
+Morphine-glucuronide, bound
+Morphine, total
+Codeine
+Diazepam
+Nordiazepam
+Ethanol
+Acetone
+Cannabinoids
+Ethanol
+Acetone
+Cannabinoids
+Methamphetamine
+Amphetamine
+Ethanol
+Acetone
+No controlled substance(s) or common ph
+Ethanol
+Acetone
+No controlled substance(s) or common ph
+Ethanol
+Acetone
+Cannabinoids
+Ethanol
+Acetone
+Fluoxetine
+Ethanol
+Acetone
+Ethanol
+Acetone
+Amphetamine
+Quetiapine
+Venlafaxine
+Lamotrigine
+Ethanol
+Acetone
+Methadone
+Alprazolam
+Hydromorphone
+Cannabinoids
+Ethanol
+Acetone
+Methadone
+No controlled substance(s) or common ph
+Ethanol
+Acetone
+Cannabinoids
+Phenytoin
+Alprazolam
+6-Monoacetylmorphine
+Butalbital
+Ethanol
+Acetone
+Nordiazepam
+Cannabinoids
+No controlled substance(s) or common ph
+Ethanol
+Acetone
+Ethanol
+Acetone
+Cannabinoids
+Ethanol
+Acetone
+Cannabinoids
+Methadone
+EDDP (methadone metabolite)
+Diazepam
+Nordiazepam
+Oxycodone
+Paroxetine
+Ethanol
+Acetone
+Levamisole
+Cocaine
+Ecgonine methyl ester
+Benzoylecgonine
+Ethanol
+Acetone
+Acetaminophen
+Bupropion
+Caffeine
+Carbamazepine
+Codeine
+Dextromethorphan
+Doxylamine
+Hydrocodone
+Dihydrocodeine
+Lorazepam
+Fluoxetine
+Gabapentin
+Ethanol
+Acetone
+Morphine, free
+Morphine-glucuronide, bound
+Morphine, total
+Fluoxetine
+Fentanyl
+Diphenhydramine
+Dextromethorphan
+Lamotrigine
+Ethanol
+Acetone
+Methadone
+EDDP (methadone metabolite)
+Hydrocodone
+Dihydrocodeine
+Lorazepam
+Acetaminophen
+Diphenhydramine
+7-Aminoclonazepam
+Ethanol
+Acetone
+Methamphetamine
+Amphetamine
+Phenobarbital
+Ethanol
+Acetone
+Cannabinoids
+Methadone
+Methamphetamine
+Amphetamine
+Ethanol
+Acetone
+Cannabinoids
+Ethanol
+Acetone
+Methadone
+Ethanol
+Acetone
+No controlled substance(s) or common ph
+Ethanol
+Acetone
+Ethanol
+Acetone
+Sertraline
+Amitriptyline
+Nortriptyline
+7-Aminoclonazepam
+Gabapentin
+No controlled substance(s) or common ph
+Ethanol
+Acetone
+Ethanol
+Acetone
+Alprazolam
+Oxycodone
+Ethanol
+Acetone
+Cyclobenzaprine
+Phenytoin
+Cannabinoids
+Ethanol
+Acetone
+No controlled substance(s) or common ph
+Ethanol
+Acetone
+No controlled substance(s) or common ph
+Ethanol
+Acetone
+No controlled substance(s) or common ph
+Ethanol
+Acetone
+Diazepam
+Nordiazepam
+Citalopram/Escitalopram
+Doxepin
+Ethanol
+Acetone
+Alprazolam
+Hydrocodone
+Dihydrocodeine
+Morphine, free
+Morphine-glucuronide, bound
+Cyclobenzaprine
+Quetiapine
+Acetaminophen
+Caffeine
+Ethanol
+Acetone
+Cannabinoids
+Methamphetamine (II)
+Amphetamine
+No controlled substance(s) or common ph
+Ethanol
+Acetone
+Phentermine
+Bupropion
+Alprazolam
+Morphine, free
+Morphine-glucuronide, bound
+Morphine, total
+Codeine
+Ethanol
+Acetone
+Ethanol
+Acetone
+6-Monoacetylmorphine
+Morphine, free
+Morphine-glucuronide, bound
+Morphine, total
+Sertraline
+Amitriptyline
+Nortriptyline
+Codeine
+Cannabinoids
+Ethanol
+Acetone
+Ethanol
+Acetone
+Cannabinoids
+Ethanol
+Acetone
+Cannabinoids
+Amitriptyline
+Nortriptyline
+Morphine, free
+Morphine-glucuronide, bound
+Morphine, total
+Oxycodone
+Ethanol
+Acetone
+No controlled substance(s) or common ph
+Ethanol
+Acetone
+Morphine, free
+Ethanol
+Acetone
+Cannabinoids
+Ethanol
+Acetone
+Chlorpheniramine
+Amphetamine
+Methamphetamine
+Ethanol
+Acetone
+Cannabinoids
+Hydrocodone
+Paroxetine
+Quetiapine
+Ethanol
+Acetone
+Cocaine
+Ecgonine methyl ester
+Benzoylecgonine
+Morphine, free
+Morphine-glucuronide, bound
+Morphine, total
+Codeine
+Ethanol
+Acetone
+Alprazolam
+Cyclobenzaprine
+Methadone
+Oxycodone
+Ethanol
+Acetone
+Cannabinoids
+7-Aminoclonazepam
+Morphine, free
+Morphine-glucuronide, bound
+Morphine, total
+Hydrocodone
+Dihydrocodeine
+Sertraline
+Oxycodone
+Acetaminophen
+Cetirizine
+Diphenhydramine
+Methadone
+Cannabinoids
+Methamphetamine
+Amphetamine
+Cocaine
+Benzoylecgonine
+Ecgonine methyl ester
+Ethanol
+Acetone
+No controlled substance(s) or common ph
+Ethanol
+Acetone
+Carboxyhemoglobin (COHb)
+No controlled substance(s) or common ph
+Ethanol
+Acetone
+Ethanol
+Acetone
+Cannabinoids
+Methamphetamine
+Amphetamine
+Cannabinoids
+Ethanol
+Acetone
+Morphine, free
+Morphine-glucuronide, bound
+Morphine, total
+Codeine
+Amphetamine
+Diazepam
+Nordiazepam
+Bupropion
+Ethanol
+Acetone
+Ethanol
+Acetone
+Cannabinoids
+Venlafaxine
+Doxylamine
+Diphenhydramine
+Acetaminophen
+Ethanol
+Acetone
+Acetaminophen
+Morphine, free
+Codeine
+Ethanol
+Acetone
+Fluoxetine
+Topiramate
+Ethanol
+Acetone
+Cannabinoids
+Oxycodone
+Bupropion
+Sertraline
+Olanzapine
+Diazepam
+Nordiazepam
+Temazepam
+Ethanol
+Acetone
+Hydrocodone
+Dihydrocodeine
+7-Aminoclonazepam
+Quetiapine
+Carbamazepine
+Acetaminophen
+Ibuprofen
+Ethanol
+Acetone
+Diazepam
+Nordiazepam
+Temazepam
+Amphetamine
+Cannabinoids
+Ethanol
+Acetone
+Cannabinoids
+Ethanol
+Acetone
+No controlled substance(s) or common ph
+Ethanol
+Acetone
+Zolpidem
+Diphenhydramine
+Gabapentin
+Ethanol
+Acetone
+Ethanol
+Acetone
+6-Monoacetylmorphine
+Morphine, free
+Morphine-glucuronide, bound
+Morphine, total
+Codeine
+Oxycodone
+Hydrocodone
+Dihydrocodeine
+Acetaminophen
+Ibuprofen
+Ethanol
+Acetone
+Cannabinoids
+Cetirizine
+Hydroxyzine
+Butalbital
+Ethanol
+Acetone
+Methamphetamine
+Amphetamine
+Dextromethorphan
+Diphenhydramine
+Guaifenesin
+Ethanol
+Acetone
+No controlled substance(s) or common ph
+No controlled substance(s) or common ph
+Ethanol
+Acetone
+Ethanol
+Acetone
+Amitriptyline
+Nortriptyline
+7-Aminoclonazepam
+Trazodone
+Propranolol
+Levetiracetam
+Diphenhydramine
+Ethanol
+Acetone
+6-Monoacetylmorphine
+Quetiapine
+Cannabinoids
+Ethanol
+Acetone
+No controlled substance(s) or common ph
+Ethanol
+Acetone
+Cannabinoids
+Morphine, free
+Morphine-glucuronide, bound
+Morphine, total
+6-Monoacetylmorphine
+Codeine
+Cannabinoids
+Ethanol
+Acetone
+Methamphetamine
+Amphetamine
+Diazepam
+Nordiazepam
+Oxycodone
+No controlled substance(s) or common ph
+Ethanol
+Acetone
+Ethanol
+Acetone
+Methamphetamine
+Amphetamine
+Benzoylecgonine
+Ecgonine methyl ester
+Cannabinoids
+Citalopram/Escitalopram
+Buprenorphine
+Ethanol
+Acetone
+Tramadol
+Oxycodone
+Paroxetine
+Morphine, free
+Morphine-glucuronide
+Morphine, total
+Ethanol
+Acetone
+Morphine, free
+Morphine-glucuronide, bound
+6-Monoacetylmorphine
+Codeine
+Ethanol
+Acetone
+Cannabinoids
+Morphine, free
+Morphine-glucuronide, bound
+Ethanol
+Acetone
+No controlled substance(s) or common ph
+Ethanol
+Acetone
+Cocaine
+Ecgonine methyl ester
+Benzoylecgonine
+7-Aminoclonazepam
+Nordiazepam
+Ethanol
+Acetone
+No controlled substance(s) or common ph
+Carboxyhemoglobin (COHb)
+Ethanol
+Acetone
+Oxycodone
+Diazepam
+Nordiazepam
+Temazepam
+Morphine, free
+Morphine-glucuronide, bound
+Morphine, total
+Ethanol
+Acetone
+Ethanol
+Acetone
+Doxylamine
+Methamphetamine
+Amphetamine
+Ethanol
+Acetone
+Cannabinoids
+Morphine, free
+Morphine-glucuronide, bound
+Morphine, total
+6-Monoacetylmorphine
+Codeine
+Cocaine
+Benzoylecgonine
+Ecgonine methyl ester
+Methamphetamine
+Mirtazapine
+Morphine, free
+Morphine-glucuronide, bound
+Morphine, total
+6-Monoacetylmorphine
+Codeine
+Alprazolam
+7-Aminoclonazepam
+Ethanol
+Acetone
+Ethanol
+Acetone
+Cannabinoids
+Chlordiazepoxide
+Nordiazepam
+Morphine, free
+Morphine-glucuronide, bound
+Morphine, total
+Codeine
+Methamphetamine
+Amphetamine
+Ethanol
+Acetone
+Bupropion
+Ethanol
+Acetone
+Cannabinoids
+Ethanol
+Acetone
+Promethazine
+Sertraline
+Cannabinoids
+Ethanol
+Acetone
+Cetirizine
+Quetiapine
+Methadone
+Oxycodone
+Cannabinoids
+Ethanol
+Acetone
+Morphine, free
+Morphine-glucuronide, bound
+Morphine, total
+6-Monoacetylmorphine
+Codeine
+Ethanol
+Acetone
+Morphine, free
+Morphine-glucuronide, bound
+Morphine, total
+6-Monoacetylmorphine
+Codeine
+Ethanol
+Acetone
+No controlled substance(s) or common ph
+Ethanol
+Acetone
+Cannabinoids
+Ethanol
+Acetone
+Ethanol
+Acetone
+Methamphetamine
+Amphetamine
+Ethanol
+Acetone
+Morphine, free
+Morphine-glucuronide, bound
+Morphine, total
+Ethanol
+Acetone
+Cannabinoids
+Methamphetamine
+Amphetamine
+Tramadol
+Ethanol
+Acetone
+Ibuprofen
+Ethanol
+Acetone
+Cannabinoids
+Citalopram/Escitalopram
+Cyclobenzaprine
+Carboxyhemoglobin (COHb)
+Ethanol
+Acetone
+Acetaminophen
+Ethanol
+Acetone
+No controlled substance(s) or common ph
+Ethanol
+Acetone
+Oxycodone
+Amitriptyline
+Nortriptyline
+Amphetamine
+Diazepam
+Nordiazepam
+Citalopram/Escitalopram
+7-Aminoclonazepam
+Ethanol
+Acetone
+Ethanol
+Acetone
+Methamphetamine
+Amphetamine
+No controlled substance(s) or common ph
+Ethanol
+Acetone
+Ethanol
+Acetone
+Methadone
+Diazepam
+Nordiazepam
+Bupropion
+Sertraline
+Ethanol
+Acetone
+Morphine, free
+Morphine-glucuronide, bound
+Morphine, total
+6-Monoacetylmorphine
+Codeine
+Hydrocodone
+Ethanol
+Acetone
+Morphine, free
+Morphine-glucuronide, bound
+Morphine, total
+6-Monoacetylmorphine
+Codeine
+Ethanol
+Acetone
+Morphine, free
+Morphine-glucuronide, bound
+Morphine, total
+6-Monoacetylmorphine
+Codeine
+7-Aminoclonazepam
+Diazepam
+Nordiazepam
+Temazepam
+Cannabinoids
+Ethanol
+Acetone
+Ethanol
+Acetone
+6-Monoacetylmorphine
+Morphine, free
+Morphine-glucuronide, bound
+Morphine, total
+Codeine
+Ethanol
+Acetone
+Cannabinoids
+Acetaminophen
+Methamphetamine
+Amphetamine
+Hydrocodone
+Dihydrocodeine
+Ethanol
+Acetone
+Methadone
+Ethanol
+Acetone
+Morphine, free
+Morphine-glucuronide, bound
+Morphine, total
+Codeine
+Methamphetamine
+Amphetamine
+Tramadol
+Quetiapine
+7-Aminoclonazepam
+Gabapentin
+Cannabinoids
+Ethanol
+Acetone
+No controlled substance(s) or common ph
+Bupropion
+Hydrocodone
+Dihydrocodeine
+Lamotrigine
+7-Aminoclonazepam
+Sertraline
+6-Monoacetylmorphine
+Morphine, free
+Morphine-glucuronide, bound
+Morphine, total
+Codeine
+Ethanol
+Acetone
+Cyclobenzaprine
+Cannabinoids
+Ethanol
+Acetone
+Hydrocodone
+Dihydrocodeine
+Acetaminophen
+7-Aminoclonazepam
+Quetiapine
+Fentanyl
+Ethanol
+Acetone
+Cannabinoids
+Ethanol
+Acetone
+Meprobamate
+Cannabinoids
+Ethanol
+Acetone
+Methamphetamine
+Amphetamine
+Methamphetamine
+Amphetamine
+Codeine
+6-Monoacetylmorphine
+Morphine, free
+Morphine-glucuronide, bound
+Morphine, total
+Lamotrigine
+Ethanol
+Acetone
+Ethanol
+Acetone
+Cannabinoids
+Ethanol
+Acetone
+Oxycodone
+Cyclobenzaprine
+Morphine, free
+Morphine-glucuronide, bound
+Morphine, total
+Butalbital
+Gabapentin
+Oxycodone
+Ethanol
+Acetone
+Cannabinoids
+Propranolol
+Cannabinoids
+Ethanol
+Acetone
+Methamphetamine
+Amphetamine
+Ethanol
+Acetone
+Cannabinoids
+Chlordiazepoxide
+Nordiazepam
+Methadone
+Methamphetamine
+Morphine-glucuronide, bound
+Morphine, total
+Codeine
+Ethanol
+Acetone
+Cannabinoids
+Trazodone
+Ethanol
+Acetone
+Cannabinoids
+Amitriptyline
+Nortriptyline
+Methadone
+Midazolam
+Ethanol
+Acetone
+Cannabinoids
+Morphine, free
+Morphine-glucuronide, bound
+Morphine, total
+6-Monoacetylmorphine
+Codeine
+7-Aminoclonazepam
+Ethanol
+Acetone
+No controlled substance(s) or common ph
+Methadone
+Ethanol
+Acetone
+Diazepam
+Nordiazepam
+Gabapentin
+Trazodone
+Fluoxetine
+Ethanol
+Acetone
+Oxycodone
+Diazepam
+Fluoxetine
+Bupropion
+Acetaminophen
+Morphine, free
+Morphine-glucuronide, bound
+Morphine, total
+Codeine
+Amitriptyline
+Nortriptyline
+7-Aminoclonazepam
+Lamotrigine
+Ibuprofen
+Ethanol
+Acetone
+Methadone
+7-Aminoclonazepam
+Ethanol
+Acetone
+Cyclobenzaprine
+Acetaminophen
+Codeine
+Oxycodone
+Pregabalin
+Fluoxetine
+Ethanol
+Acetone
+Amitriptyline
+Nortriptyline
+Citalopram/Escitalopram
+Methadone
+Morphine, free
+Morphine-glucuronide, bound
+Morphine, total
+Ethanol
+Acetone
+Cannabinoids
+No controlled substance(s) or common ph
+Ethanol
+Acetone
+No controlled substance(s) or common ph
+Ethanol
+Acetone
+Ethanol
+Acetone
+6-Monoacetylmorphine
+Morphine, free
+Morphine-glucuronide, bound
+Morphine, total
+Codeine
+Metoprolol
+Ethanol
+Acetone
+Dextromethorphan
+Diphenhydramine
+Oxycodone
+Pregabalin
+Promethazine
+Sertraline
+Topiramate
+Ethanol
+Acetone
+Diphenhydramine
+Oxycodone
+Cannabinoids
+Oxycodone
+Ethanol
+Acetone
+Lorazepam
+Quetiapine
+Cyclobenzaprine
+Amitriptyline
+Nortriptyline
+Gabapentin
+Lidocaine
+Cocaine
+Ecgonine methyl ester
+Benzoylecgonine
+Levamisole
+Ethanol
+Acetone
+Cannabinoids
+Chlorpheniramine
+Ethanol
+Acetone
+Ethanol
+Acetone
+Diazepam
+Nordiazepam
+Temazepam
+Cannabinoids
+Ethanol
+Acetone
+Cocaine
+Ecgonine methyl ester
+Benzoylecgonine
+Levamisole
+6-Monoacetylmorphine
+Morphine
+Morphine-glucuronide, bound
+Morphine, total
+Codeine
+Ethanol
+Acetone
+Ethanol
+Acetone
+Hydrocodone
+Dihydrocodeine
+Acetaminophen
+Oxycodone
+Amitriptyline
+Nortriptyline
+Diazepam
+Nordiazepam
+Sertraline
+Gabapentin
+Meprobamate
+Ethanol
+Acetone
+Oxycodone
+Cyclobenzaprine
+Bupropion
+7-Aminoclonazepam
+Carisoprodol
+Meprobamate
+Gabapentin
+Trazodone
+Ethanol
+Acetone
+Cannabinoids
+Ethanol
+Acetone
+7-Aminoclonazepam
+Nortriptyline
+Ethanol
+Acetone
+No controlled substance(s) or common ph
+Ethanol
+Acetone
+Cannabinoids
+Hydrocodone
+Ethanol
+Acetone
+Dihydrocodeine
+Citalopram/Escitalopram
+Diazepam
+Nordiazepam
+Temazepam
+Gabapentin
+Trazodone
+Diphenhydramine
+Acetaminophen
+Ibuprofen
+Cannabinoids
+Methamphetamine
+Amphetamine
+Ethanol
+Acetone
+Ethanol
+Acetone
+No controlled substance(s) or common ph
+Ethanol
+Acetone
+Methadone
+Oxycodone
+Venlafaxine
+Gabapentin
+Trazodone
+Ethanol
+Acetone
+Methamphetamine
+Amphetamine
+Butalbital
+Ethanol
+Acetone
+No controlled substance(s) or common ph
+Oxycodone
+Fluoxetine
+Ethanol
+Acetone
+Cannabinoids
+6-Monoacetylmorphine
+Morphine, free
+Morphine-glucuronide, bound
+Morphine, total
+Codeine
+Ethanol
+Acetone
+Citalopram/Escitalopram
+Ethanol
+Acetone
+Ethanol
+Acetone
+Hydrocodone
+Dihydrocodeine
+Gabapentin
+Acetaminophen
+Cyclobenzaprine
+Methamphetamine
+Ethanol
+Acetone
+Amitriptyline
+Nortriptyline
+Trazodone
+Morphine, free
+Morphine-glucuronide, bound
+Morphine, total
+Ethanol
+Acetone
+Acetaminophen
+Diphenhydramine
+Ethanol
+Acetone
+Butalbital
+Dihydrocodeine
+7-Aminoclonazepam
+Diphenhydramine
+Zolpidem
+Citalopram/Escitalopram
+Gabapentin
+Promethazine
+Mirtazapine
+Hydrocodone
+Alprazolam
+Benzoylecgonine
+Ecgonine methyl ester
+Amphetamine
+Paroxetine
+Lorazepam
+Ethanol
+Acetone
+Morphine, free
+Morphine-glucuronide, bound
+Morphine, total
+6-Monoacetylmorphine
+Codeine
+Methamphetamine
+Amphetamine
+Benzoylecgonine
+Cannabinoids
+Ethanol
+Acetone
+Morphine, free
+Morphine-glucuronide, bound
+Morphine, total
+Codeine
+Gabapentin
+Promethazine
+Ethanol
+Acetone
+Methamphetamine
+Amphetamine
+Morphine, free
+Morphine-glucuronide, bound
+Morphine, total
+Levetiracetam
+Ethanol
+Acetone
+Trazodone
+Ethanol
+Acetone
+Cannabinoids
+Methamphetamine
+Amphetamine
+Acetaminophen
+Ethanol
+Acetone
+Hydrocodone
+Dihydrocodeine
+Zolpidem
+Haloperidol
+Ethanol
+Acetone
+Acetaminophen
+No controlled substance(s) or common ph
+Ethanol
+Acetone
+Acetaminophen
+Ethanol
+Acetone
+Ethanol
+Acetone
+Hydrocodone
+Dihydrocodeine
+Oxycodone
+Zolpidem
+Lorazepam
+Acetaminophen
+Cyclobenzaprine
+Ethanol
+Acetone
+Cannabinoids
+Methadone
+EDDP (methadone metabolite)
+7-Aminoclonazepam
+Alprazolam
+Diphenhydramine
+Meprobamate
+Ethanol
+Acetone
+Cannabinoids
+Methamphetamine
+Amphetamine
+Methadone
+Mirtazapine
+Olanzapine
+Promethazine
+7-Aminoclonazepam
+Nordiazepam
+Ethanol
+Acetone
+Diltiazem
+Ethanol
+Acetone
+Ethanol
+Acetone
+No controlled substance(s) or common ph
+Ethanol
+Acetone
+Methamphetamine
+Ethanol
+Acetone
+7-Aminoclonazepam
+Amphetamine
+Citalopram/Escitalopram
+Fentanyl
+Oxycodone
+Ethanol
+Acetone
+Cannabinoids
+Ethanol
+Acetone
+No controlled substance(s) or common ph
+Ethanol
+Acetone
+Citalopram/Escitalopram
+Methamphetamine
+Amphetamine
+Alprazolam
+Diphenhydramine
+Cannabinoids
+Ethanol
+Acetone
+Hydrocodone
+Dihydrocodeine
+Lorazepam
+Meperidine
+Paroxetine
+Guaifenesin
+Chlordiazepoxide
+Nordiazepam
+Morphine, free
+Morphine-glucuronide, bound
+Morphine, total
+Ethanol
+Acetone
+Trazodone
+No controlled substance(s) or common ph
+Ethanol
+Acetone
+Cannabinoids
+Ethanol
+Acetone
+No controlled substance(s) or common ph
+Ethanol
+Acetone
+Mirtazapine
+Morphine, free
+Morphine-glucuronide, bound
+Morphine, total
+Ethanol
+Acetone
+Cyclobenzaprine
+Diazepam
+Nordiazepam
+Oxycodone
+Quetiapine
+Tramadol
+Zolpidem
+Ethanol
+Acetone
+Fluoxetine
+Lidocaine
+Promethazine
+Zolpidem
+Oxycodone
+Ethanol
+Acetone
+Tramadol
+Oxycodone
+Cyclobenzaprine
+Ethanol
+Acetone
+Ethanol
+Acetone
+Fentanyl
+Venlafaxine
+Norvenlafaxine
+Ethanol
+Acetone
+Morphine, free
+Morphine-glucuronide, bound
+7-Aminoclonazepam
+Methadone
+Tramadol
+Citalopram/Escitalopram
+7-Aminoclonazepam
+Ethanol
+Acetone
+Gabapentin
+Ethanol
+Acetone
+Morphine, free
+Morphine-glucuronide, bound
+Morphine, total
+6-Monoacetylmorphine
+Codeine
+Diazepam
+Nordiazepam
+Fentanyl
+Alprazolam
+Oxycodone
+Zolpidem
+Hydrocodone
+7-Aminoclonazepam
+Cannabinoids
+Ethanol
+Acetone
+Ethanol
+Acetone
+Amitriptyline
+Nortriptyline
+Ethanol
+Acetone
+Amphetamine
+Methamphetamine
+Diazepam
+Nordiazepam
+Nortriptyline
+Methamphetamine
+Amphetamine
+Ethanol
+Acetone
+Carboxyhemoglobin (COHb)
+Ethanol
+Acetone
+Carisoprodol
+Meprobamate
+Diazepam
+Nordiazepam
+Oxycodone
+Ethanol
+Acetone
+Diazepam
+Quetiapine
+Acetaminophen
+Ethanol
+Acetone
+Cannabinoids
+Acetaminophen
+Methamphetamine
+Amphetamine
+6-Monoacetylmorphine
+Morphine, free
+Morphine-glucuronide, bound
+Morphine, total
+Codeine
+Ethanol
+Acetone
+Cannabinoids
+Methadone
+Amitriptyline
+Nortriptyline
+Venlafaxine
+Hydrocodone
+Dihydrocodeine
+Topiramate
+Norvenlafaxine
+Ethanol
+Acetone
+No controlled substance(s) or common ph
+Carboxyhemoglobin (COHb)
+Ethanol
+Acetone
+Temazepam
+Sertraline
+Oxycodone
+Quetiapine
+Ethanol
+Acetone
+Zolpidem
+Ethanol
+Acetone
+Ethanol
+Acetone
+Cannabinoids
+Ethanol
+Acetone
+No controlled substance(s) or common ph
+No controlled substance(s) or common ph
+Ethanol
+Acetone
+Ethanol
+Acetone
+Methamphetamine
+Amphetamine
+Ethanol
+Acetone
+Cyclobenzaprine
+Diazepam
+Nordiazepam
+Meperidine
+Mirtazapine
+Zolpidem
+Ethanol
+Acetone
+Cannabinoids
+Oxycodone
+Cannabinoids
+Ethanol
+Acetone
+Methadone
+Alprazolam
+Ethanol
+Acetone
+Ethanol
+Acetone
+No controlled substance(s) or common ph
+Methadone
+Mirtazapine
+Morphine, free
+Morphine-glucuronide, bound
+Morphine, total
+Ethanol
+Acetone
+No controlled substance(s) or common ph
+Ethanol
+Acetone
+1,1-Difluoroethane
+Cannabinoids
+Ethanol
+Acetone
+Alprazolam
+6-Monoacetylmorphine
+Morphine, free
+Codeine
+Ethanol
+Acetone
+Cannabinoids
+Ethanol
+Acetone
+Methamphetamine
+Amphetamine
+Bupropion
+Hydrocodone
+Dihydrocodeine
+Ethanol
+Acetone
+Methamphetamine
+Amphetamine
+Amitriptyline
+Nortriptyline
+Oxycodone
+Tramadol
+Morphine, free
+Morphine-glucuronide, bound
+Morphine, total
+Ethanol
+Acetone
+Gabapentin
+Ethanol
+Acetone
+Hydrocodone
+Ethanol
+Acetone
+Methamphetamine
+Amphetamine
+Morphine, free
+No controlled substance(s) or common ph
+Cannabinoids
+Ethanol
+Acetone
+Ethanol
+Acetone
+No controlled substance(s) or common ph
+Ethanol
+Acetone
+No controlled substance(s) or common ph
+Ethanol
+Acetone
+Amitriptyline
+Nortriptyline
+Zolpidem
+Methadone
+Hydromorphone
+Cyclobenzaprine
+Diphenhydramine
+Cannabinoids
+Ethanol
+Acetone
+Ethanol
+Acetone
+Oxycodone
+Hydrocodone
+Dihydrocodeine
+Citalopram/Escitalopram
+Cyclobenzaprine
+7-Aminoclonazepam
+Zolpidem
+Barbiturates
+Ethanol
+Acetone
+Morphine, free
+Morphine-glucuronide, bound
+Morphine, total
+Codeine
+6-Monoacetylmorphine
+Methamphetamine
+Amphetamine
+Citalopram/Escitalopram
+Lorazepam
+Methadone
+Oxycodone
+Ethanol
+Acetone
+Acetaminophen
+Tramadol
+Hydrocodone
+Dihydrocodeine
+Alprazolam
+Ethanol
+Acetone
+Amitriptyline
+Nortriptyline
+Trazodone
+7-Aminoclonazepam
+Zolpidem
+Mirtazapine
+Levetiracetam
+Ethanol
+Acetone
+Methamphetamine
+Diazepam
+Nordiazepam
+Ethanol
+Acetone
+6-Monoacetylmorphine
+Morphine, free
+Morphine-glucuronide, bound
+Morphine, total
+Codeine
+Ethanol
+Acetone
+Cannabinoids
+Amphetamine
+Methamphetamine
+Diazepam
+Nordiazepam
+Venlafaxine
+Norvenlafaxine
+Morphine, free
+Morphine-glucuronide, bound
+Morphine, total
+Codeine
+Ethanol
+No controlled substance(s) or common ph
+Ethanol
+Acetone
+Cannabinoids
+Methamphetamine
+Amphetamine
+Lorazepam
+Carboxyhemoglobin (COHb)
+Ethanol
+Acetone
+Oxycodone
+Temazepam
+Alprazolam
+Norvenlafaxine
+Ethanol
+Acetone
+Cannabinoids
+Morphine, free
+Morphine-glucuronide, bound
+Morphine, total
+Codeine
+Ethanol
+Acetone
+Amitriptyline
+Nortriptyline
+Oxycodone
+Trazodone
+Acetaminophen
+Doxepin
+Quetiapine
+Cannabinoids
+Ethanol
+Acetone
+Ethanol
+Acetone
+Hydrocodone
+Dihydrocodeine
+Cyclobenzaprine
+Quetiapine
+7-Aminoclonazepam
+Clozapine
+Diphenhydramine
+Ibuprofen
+Ethanol
+Acetone
+No controlled substance(s) or common ph
+Cannabinoids
+Ethanol
+Acetone
+Methamphetamine
+Amphetamine
+Temazepam
+Barbiturates
+Cannabinoids
+Morphine, free
+Morphine-glucuronide, bound
+6-Monoacetylmorphine
+Codeine
+Ethanol
+Acetone
+Methamphetamine
+Amphetamine
+7-Aminoclonazepam
+Temazepam
+Cannabinoids
+Morphine, free
+Morphine-glucuronide, bound
+Morphine, total
+6-Monoacetylmorphine
+Codeine
+Ethanol
+Acetone
+Carboxyhemoglobin (COHb)
+Cannabinoids
+Ethanol
+Acetone
+Cannabinoids
+Ethanol
+Acetone
+Trazodone
+Promethazine
+Alprazolam
+Dihydrocodeine
+Hydrocodone
+Quetiapine
+Temazepam
+Ethanol
+Morphine, total
+7-Aminoclonazepam
+Ethanol
+Acetone
+Methamphetamine
+Amphetamine
+6-Monoacetylmorphine
+Morphine, free
+Morphine-glucuronide, bound
+Morphine, total
+Codeine
+Methadone
+Acetaminophen
+Ethanol
+Acetone
+Cannabinoids
+Ethanol
+Acetone
+Cocaine
+Ecgonine methyl ester
+Benzoylecgonine
+Methamphetamine
+Ethanol
+Acetone
+Methamphetamine
+Amphetamine
+6-Monoacetylmorphine
+Morphine, free
+Morphine-glucuronide, bound
+Morphine, total
+Codeine
+Ethanol
+Acetone
+Amitriptyline
+Nortriptyline
+Ecgonine methyl ester
+Benzoylecgonine
+Sertraline
+6-Monoacetylmorphine
+Codeine
+Morphine, free
+Morphine-glucuronide
+Morphine, total
+Tramadol
+Ethanol
+Acetone
+Cannabinoids
+Ethanol
+Acetone
+Methadone
+Citalopram/Escitalopram
+Amitriptyline
+Nortriptyline
+Oxycodone
+Hydrocodone
+Dihydrocodeine
+Bupropion
+Diazepam
+Nordiazepam
+Amphetamine
+Fentanyl
+Cyclobenzaprine
+Ethanol
+Acetone
+No controlled substance(s) or common ph
+Ethanol
+Acetone
+Morphine, free
+Morphine-glucuronide, bound
+Morphine, total
+Citalopram/Escitalopram
+Ethanol
+Acetone
+Oxycodone
+Amitriptyline
+Nortriptyline
+Cyclobenzaprine
+Cannabinoids
+Ethanol
+Acetone
+Methamphetamine
+Ethanol
+Acetone
+Cannabinoids
+Ethanol
+Acetone
+Methamphetamine
+Morphine-glucuronide, bound
+Morphine, total
+Codeine
+Ethanol
+Acetone
+Fentanyl
+Methamphetamine
+Amphetamine
+Quetiapine
+7-Aminoclonazepam
+Ethanol
+Acetone
+Codeine
+Citalopram/Escitalopram
+Quetiapine
+7-Aminoclonazepam
+Guaifenesin
+Cannabinoids
+Ethanol
+Acetone
+Methadone
+Diazepam
+Nordiazepam
+Temazepam
+Bupropion
+Cyclobenzaprine
+Ethanol
+Acetone
+Cannabinoids
+Mirtazapine
+Hydrocodone
+Ethanol
+Acetone
+Oxycodone
+Carisoprodol
+Meprobamate
+Ethanol
+Acetone
+Cannabinoids
+Methamphetamine
+Amphetamine
+Ethanol
+Acetone
+Acetaminophen
+Nortriptyline
+Paroxetine
+7-Aminoclonazepam
+Ethanol
+Acetone
+Oxycodone
+Hydrocodone
+Citalopram/Escitalopram
+Diazepam
+Nordiazepam
+Methadone
+Tramadol
+Nortriptyline
+Topiramate
+No controlled substance(s) or common ph
+Ethanol
+Acetone
+Morphine, free
+Morphine-glucuronide, bound
+Morphine, total
+Codeine
+Quetiapine
+Venlafaxine
+Mirtazapine
+Ethanol
+Acetone
+Ethanol
+Acetone
+No controlled substance(s) or common ph
+No controlled substance(s) or common ph
+Ethanol
+Acetone
+Cannabinoids
+Ethanol
+Acetone
+Hydrocodone
+No controlled substance(s) or common ph
+Ethanol
+Acetone
+Phenobarbital
+Phenytoin
+Lorazepam
+Ethanol
+Acetone
+Acetone
+6-Monoacetylmorphine
+Morphine, free
+Morphine-glucuronide, bound
+Morphine, total
+Codeine
+Lidocaine
+Ethanol
+Acetone
+No controlled substance(s) or common ph
+No controlled substance(s) or common ph
+Ethanol
+Acetone
+Cannabinoids
+Ethanol
+Acetone
+No controlled substance(s) or common ph
+Ethanol
+Acetone
+Cannabinoids
+Methamphetamine
+Amphetamine
+Alprazolam
+Imipramine
+Fluoxetine
+Doxylamine
+Dextromethorphan
+Ethanol
+Acetone
+Ethanol
+Acetone
+Hydrocodone
+Dihydrocodeine
+Zolpidem
+Diazepam
+Nordiazepam
+Citalopram/Escitalopram
+Cyclobenzaprine
+Carisoprodol
+Meprobamate
+Carboxyhemoglobin (COHb)
+Ethanol
+Acetone
+No controlled substance(s) or common ph
+Cannabinoids
+Ethanol
+Acetone
+No controlled substance(s) or common ph
+Ethanol
+Acetone
+Cannabinoids
+Methadone
+Diazepam
+Nordiazepam
+Oxycodone
+Meperidine
+Temazepam
+Ethanol
+Acetone
+No controlled substance(s) or common ph
+Ethanol
+Acetone
+Ethanol
+Acetone
+Methamphetamine
+Amphetamine
+Ethanol
+Acetone
+No controlled substance(s) or common ph
+Ethanol
+Acetone
+Cannabinoids
+Methadone
+7-Aminoclonazepam
+Cannabinoids
+Fluoxetine
+Ibuprofen
+Ethanol
+Acetone
+6-Monoacetylmorphine
+Morphine, free
+Morphine-glucuronide, bound
+Morphine, total
+Alprazolam
+Oxycodone
+Codeine
+Midazolam
+Ethanol
+Acetone
+Fluoxetine
+Morphine, free
+Morphine-glucuronide, bound
+Morphine, total
+Zolpidem
+Ethanol
+Acetone
+Amphetamine
+Methamphetamine
+Fluoxetine
+Morphine, free
+Morphine-glucuronide, bound
+Morphine, total
+Codeine
+Ethanol
+Acetone
+Amphetamine
+Methamphetamine
+Gabapentin
+Dihydrocodeine
+Hydrocodone
+7-Aminoclonazepam
+Doxylamine
+Dextromethorphan
+Promethazine
+Acetaminophen
+Fluoxetine
+Trimethoprim
+Morphine, free
+Morphine-glucuronide, bound
+Morphine, total
+Ethanol
+Acetone
+Cannabinoids
+Amphetamine
+Methamphetamine
+Benzoylecgonine
+Ecgonine methyl ester
+Ethanol
+Acetone
+Bupropion
+Hydroxybupropion
+Cannabinoids
+Nortriptyline
+Ethanol
+Acetone
+Cannabinoids
+Ethanol
+Acetone
+Cannabinoids
+Morphine, free
+Morphine-glucuronide, bound
+Morphine, total
+Codeine
+Ethanol
+Acetone
+Fentanyl
+Citalopram/Escitalopram
+Carbamazepine
+Cannabinoids
+Ethanol
+Acetone
+Benzoylecgonine
+Ecgonine methyl ester
+6-Monoacetylmorphine
+Morphine, free
+Morphine-glucuronide, bound
+Morphine, total
+Codeine
+Ethanol
+Acetone
+Ethanol
+Acetone
+Amitriptyline
+Nortriptyline
+Cyclobenzaprine
+Citalopram/Escitalopram
+No controlled substance(s) or common ph
+Ethanol
+Acetone
+Cannabinoids
+Ethanol
+Acetone
+Ethanol
+Acetone
+Phenobarbital
+Ethanol
+Acetone
+No controlled substance(s) or common ph
+Ethanol
+Acetone
+Sertraline
+Olanzapine
+Propranolol
+Ethanol
+Acetone
+Ethanol
+Acetone
+Cannabinoids
+Oxycodone
+Cyclobenzaprine
+Cocaine
+Ethanol
+Acetone
+Ecgonine methyl ester
+Benzoylecgonine
+Ethanol
+Acetone
+Cannabinoids
+Ibuprofen
+Methamphetamine
+Amphetamine
+Methadone
+Tramadol
+Cannabinoids
+Ethanol
+Acetone
+Quetiapine
+Oxycodone
+Nordiazepam
+Hydrocodone
+Lamotrigine
+Ethanol
+Acetone
+Acetaminophen
+Ethanol
+Acetone
+Pentobarbital
+Phenytoin
+Ethanol
+Acetone
+Carbamazepine
+Gabapentin
+Ethanol
+Acetone
+Cannabinoids
+Amphetamine
+Methamphetamine
+Ethanol
+Acetone
+Ethanol
+Acetone
+Trimethoprim
+Lorazepam
+Tramadol
+Dihydrocodeine
+Trimethoprim
+Ethanol
+Acetone
+Promethazine
+7-Aminoclonazepam
+Cyclobenzaprine
+Diazepam
+Nordiazepam
+Temazepam
+Zolpidem
+Ethanol
+Acetone
+Cannabinoids
+Amphetamine
+Methamphetamine
+Mirtazapine
+Ethanol
+Acetone
+Ethanol
+Acetone
+Hydrocodone
+Dihydrocodeine
+Paroxetine
+Acetaminophen
+Diphenhydramine
+Ethanol
+Acetone
+Cannabinoids
+Chlorpheniramine
+Dextromethorphan
+Ethanol
+Acetone
+Cannabinoids
+Ethanol
+Acetone
+6-Monoacetylmorphine
+Morphine, free
+Morphine-glucuronide, bound
+Morphine, total
+Codeine
+Methadone
+Cyclobenzaprine
+Olanzapine
+Ethanol
+Acetone
+Ethanol
+Acetone
+Morphine, free
+Morphine-glucuronide, bound
+Morphine, total
+6-Monoacetylmorphine
+Codeine
+Cannabinoids
+Ethanol
+Acetone
+No controlled substance(s) or common ph
+Citalopram/Escitalopram
+Ethanol
+Acetone
+Oxycodone
+Hydrocodone
+Dihydrocodeine
+Gabapentin
+Diphenhydramine
+Acetaminophen
+Cannabinoids
+Morphine, free
+Morphine-glucuronide, bound
+Morphine, total
+Codeine
+6-Monoacetylmorphine
+Ethanol
+Acetone
+Cannabinoids
+Ethanol
+Acetone
+Diazepam
+Nordiazepam
+Methadone
+Ethanol
+Acetone
+Ethanol
+Acetone
+Amphetamine
+Methamphetamine
+Alprazolam
+6-Monoacetylmorphine
+Morphine, free
+Morphine-glucuronide, bound
+Morphine, total
+Codeine
+Morphine, free
+Morphine-glucuronide, bound
+Nordiazepam
+Ethanol
+Acetone
+Ethanol
+Acetone
+No controlled substance(s) or common ph
+Ethanol
+Acetone
+Cannabinoids
+Carboxyhemoglobin (COHb)
+Ethanol
+Acetone
+Cannabinoids
+Ketamine
+Cannabinoids
+Ethanol
+Acetone
+Morphine, free
+Morphine-glucuronide, bound
+Morphine, total
+Codeine
+Citalopram/Escitalopram
+Hydrocodone
+Methadone
+Quetiapine
+Lamotrigine
+Trimethoprim
+Ethanol
+Acetone
+No controlled substance(s) or common ph
+Ethanol
+Acetone
+No controlled substance(s) or common ph
+Ethanol
+Acetone
+Ibuprofen
+Ethanol
+Acetone
+Cannabinoids
+Diphenhydramine
+Ethanol
+Acetone
+No controlled substance(s) or common ph
+Ethanol
+Acetone
+Cannabinoids
+Diphenhydramine
+Ethanol
+Acetone
+Ethanol
+Acetone
+No controlled substance(s) or common ph
+No controlled substance(s) or common ph
+Ethanol
+Acetone
+Carboxyhemoglobin (COHb)
+Lorazepam
+Oxycodone
+Quetiapine
+Acetaminophen
+Ethanol
+Acetone
+Ethanol
+Acetone
+Cannabinoids
+Ethanol
+Acetone
+No controlled substance(s) or common ph
+Ethanol
+Acetone
+No controlled substance(s) or common ph
+Ethanol
+Acetone
+Hydrocodone
+Dihydrocodeine
+Methocarbamol
+Ethanol
+Acetone
+6-Monoacetylmorphine
+Morphine, free
+Morphine-glucuronide, bound
+Morphine, total
+Codeine
+Ethanol
+Acetone
+Morphine, free
+Morphine-glucuronide, bound
+Morphine, total
+Codeine
+Quetiapine
+Temazepam
+Ethanol
+Acetone
+Morphine, free
+Morphine-glucuronide, bound
+Morphine, total
+Acetaminophen
+Diphenhydramine
+Promethazine
+Mirtazapine
+Hydrocodone
+Dihydrocodeine
+Zolpidem
+7-Aminoclonazepam
+Gabapentin
+Tramadol
+Cannabinoids
+Acetone
+Temazepam
+Tramadol
+Trazodone
+Lidocaine
+Diazepam
+Nordiazepam
+Midazolam
+Paroxetine
+Sertraline
+No controlled substance(s) or common ph
+Ethanol
+Acetone
+Ethanol
+Acetone
+Cannabinoids
+Methamphetamine
+Amphetamine
+Hydrocodone
+Morphine, free
+Ethanol
+Acetone
+Morphine-glucuronide, bound
+Morphine, total
+Venlafaxine
+Amitriptyline
+Nortriptyline
+Hydrocodone
+Gabapentin
+Carisoprodol
+Meprobamate
+Topiramate
+Norvenlafaxine
+Ethanol
+Acetone
+Cannabinoids
+Ethanol
+Acetone
+Diphenhydramine
+Ethanol
+Acetone
+No controlled substance(s) or common ph
+Ethanol
+Acetone
+Quetiapine
+Hydrocodone
+Lamotrigine
+Promethazine
+Diphenhydramine
+Acetaminophen
+Ibuprofen
+Cannabinoids
+Ethanol
+Acetone
+Methadone
+Nortriptyline
+Gabapentin
+Oxymorphone
+Methamphetamine
+Amphetamine
+Ethanol
+Acetone
+Ethanol
+Acetone
+Cannabinoids
+Oxycodone
+Hydrocodone
+Dihydrocodeine
+Citalopram/Escitalopram
+Nortriptyline
+Amitriptyline
+Ethanol
+Acetone
+Methamphetamine
+Paroxetine
+Morphine, free
+Morphine-glucuronide, bound
+Ethanol
+Acetone
+Cannabinoids
+Amitriptyline
+Nortriptyline
+Cyclobenzaprine
+Venlafaxine
+Nordiazepam
+Ethanol
+Acetone
+Diazepam
+Cannabinoids
+Ethanol
+Acetone
+Amitriptyline
+Nortriptyline
+Ethanol
+Acetone
+Methadone
+Oxycodone
+Secobarbital
+Cannabinoids
+Ethanol
+Acetone
+Benzoylecgonine
+Ecgonine methyl ester
+No controlled substance(s) or common ph
+Ethanol
+Acetone
+Ethanol
+Acetone
+Quetiapine
+Hydrocodone
+Dihydrocodeine
+Oxycodone
+Paroxetine
+Acetaminophen
+Cannabinoids
+Methamphetamine
+Amphetamine
+Ethanol
+Acetone
+No controlled substance(s) or common ph
+Ethanol
+Acetone
+Ethanol
+Acetone
+Acetaminophen
+Cannabinoids
+Hydrocodone
+Dihydrocodeine
+Morphine, free
+Morphine-glucuronide, bound
+Cannabinoids
+Morphine, free
+Morphine-glucuronide, bound
+Morphine, total
+Codeine
+Benzoylecgonine
+Ecgonine methyl ester
+Ethanol
+Acetone
+Tramadol
+Hydrocodone
+Gabapentin
+Trazodone
+Diphenhydramine
+Acetaminophen
+Amitriptyline
+Nortriptyline
+Ethanol
+Acetone
+Cannabinoids
+Ethanol
+Acetone
+7-Aminoclonazepam
+Alprazolam
+Fentanyl
+Ethanol
+Acetone
+No controlled substance(s) or common ph
+No controlled substance(s) or common ph
+Ethanol
+Acetone
+Carboxyhemoglobin (COHb)
+Hydrocodone
+Ethanol
+Acetone
+Olanzapine
+Zolpidem
+Ethanol
+Acetone
+Temazepam
+Cyclobenzaprine
+Ethanol
+Acetone
+Codeine
+Oxycodone
+Methamphetamine
+Amphetamine
+Benzoylecgonine
+Ecgonine methyl ester
+Cannabinoids
+Ethanol
+Acetone
+Methamphetamine
+Amphetamine
+No controlled substance(s) or common ph
+Ethanol
+Acetone
+Cannabinoids
+Loxapine
+Ethanol
+Acetone
+Diazepam
+Nordiazepam
+Tramadol
+Haloperidol
+Nortriptyline
+Cyclobenzaprine
+Methamphetamine
+Amphetamine
+Ethanol
+Acetone
+Cannabinoids
+Methamphetamine
+Amphetamine
+Ethanol
+Acetone
+Ibuprofen
+6-Monoacetylmorphine
+Morphine, free
+Morphine-glucuronide, bound
+Morphine, total
+Codeine
+Ethanol
+Acetone
+Cannabinoids
+Citalopram/Escitalopram
+Lamotrigine
+Nordiazepam
+Oxycodone
+Ethanol
+Acetone
+Cannabinoids
+Cocaine
+Benzoylecgonine
+Ecgonine methyl ester
+Ethanol
+Acetone
+Mirtazapine
+Ethanol
+Acetone
+Verapamil
+Sertraline
+Amphetamine
+Methamphetamine
+Citalopram/Escitalopram
+Lorazepam
+Nordiazepam
+Trazodone
+meta-Chlorophenylpiperazine
+Ethanol
+Acetone
+Cannabinoids
+Ethanol
+Acetone
+Carboxyhemoglobin (COHb)
+Cannabinoids
+Ethanol
+Acetone
+No controlled substance(s) or common ph
+Ethanol
+Acetone
+Oxycodone
+Acetaminophen
+Ethanol
+Acetone
+Cannabinoids
+Ethanol
+Acetone
+Cannabinoids
+6-Monoacetylmorphine
+Morphine, free
+Codeine
+Cyclobenzaprine
+Methamphetamine
+Amphetamine
+Ethanol
+Acetone
+Cannabinoids
+Ethanol
+Acetone
+Morphine, free
+Morphine-glucuronide, bound
+Morphine, total
+Codeine
+Cocaine
+Benzoylecgonine
+Ecgonine methyl ester
+Cannabinoids
+Ethanol
+Acetone
+Cannabinoids
+Diphenhydramine
+Ethanol
+Acetone
+Morphine, free
+Morphine-glucuronide, bound
+Morphine, total
+Diazepam
+Nordiazepam
+Cannabinoids
+Ethanol
+Acetone
+No controlled substance(s) or common ph
+Ethanol
+Acetone
+No controlled substance(s) or common ph
+Ethanol
+Acetone
+No controlled substance(s) or common ph
+Ethanol
+Acetone
+Ethanol
+Acetone
+Codeine
+Zolpidem
+Doxepin
+Ethanol
+Acetone
+Acetone
+Ethanol
+No controlled substance(s) or common ph
+Doxepin
+Methadone
+Ethanol
+Acetone
+Cannabinoids
+Methamphetamine
+Amphetamine
+Morphine, free
+Morphine-glucuronide, bound
+Codeine
+6-Monoacetylmorphine
+Ethanol
+Acetone
+Methadone
+Morphine, free
+Morphine-glucuronide, bound
+Codeine
+6-Monoacetylmorphine
+Ethanol
+Acetone
+No controlled substance(s) or common ph
+Ethanol
+Acetone
+Carboxyhemoglobin (COHb)
+Ethanol
+Methanol
+Acetone
+No controlled substance(s) or common ph
+Ethanol
+Acetone
+Methadone
+Hydrocodone
+Diazepam
+Nordiazepam
+Ethanol
+Acetone
+Quetiapine
+Cannabinoids
+Morphine, free
+Nordiazepam
+Temazepam
+Methadone
+Oxycodone
+Sertraline
+Alprazolam
+Citalopram/Escitalopram
+Oxycodone
+Zolpidem
+Ethanol
+Acetone
+Lorazepam
+Ethanol
+Acetone
+Cannabinoids
+6-Monoacetylmorphine
+Morphine, free
+Morphine-glucuronide, bound
+Morphine, total
+Codeine
+Mirtazapine
+Ethanol
+Acetone
+Cannabinoids
+Citalopram/Escitalopram
+Morphine, free
+Morphine-glucuronide, bound
+Morphine, total
+Codeine
+Ethanol
+Acetone
+Lorazepam
+Midazolam
+Diltiazem
+Levetiracetam
+No controlled substance(s) or common ph
+Ethanol
+Acetone
+Diltiazem
+Ethanol
+Acetone
+Morphine, free
+Morphine-glucuronide, bound
+Morphine, total
+Citalopram/Escitalopram
+Lorazepam
+Temazepam
+Ethanol
+Acetone
+Methamphetamine
+Amphetamine
+Cannabinoids
+Fentanyl
+Methamphetamine
+Amphetamine
+Hydrocodone
+Dihydrocodeine
+Ethanol
+Acetone
+Cannabinoids
+Ethanol
+Acetone
+Morphine, free
+Morphine-glucuronide, bound
+Morphine, total
+Codeine
+6-Monoacetylmorphine
+Morphine, free
+Morphine-glucuronide, bound
+Morphine, total
+Codeine
+Ethanol
+Acetone
+Cannabinoids
+Verapamil
+Methamphetamine
+Amphetamine
+Venlafaxine
+Amitriptyline
+Nortriptyline
+Cyclobenzaprine
+Ethanol
+Acetone
+Cannabinoids
+Methamphetamine
+Amphetamine
+Tramadol
+Alprazolam
+Amitriptyline
+Nortriptyline
+Ethanol
+Acetone
+Butalbital
+Phentermine
+Topiramate
+Ethanol
+Acetone
+Diazepam
+Nordiazepam
+Temazepam
+Hydrocodone
+Ethanol
+Acetone
+Zolpidem
+Ethanol
+Acetone
+No controlled substance(s) or common ph
+Cannabinoids
+Ethanol
+Acetone
+Methamphetamine
+Amphetamine
+Ethanol
+Acetone
+Cannabinoids
+Tramadol
+Oxycodone
+1,1-Difluoroethane
+Ethanol
+Acetone
+Cannabinoids
+Methamphetamine
+Citalopram/Escitalopram
+Ethanol
+Acetone
+Cyclobenzaprine
+Ethanol
+Acetone
+No controlled substance(s) or common ph
+Cannabinoids
+Ethanol
+Acetone
+Methamphetamine
+Amphetamine
+Ethanol
+Acetone
+Cannabinoids
+Morphine, free
+Morphine-glucuronide, bound
+Morphine, total
+6-Monoacetylmorphine
+Codeine
+Methamphetamine
+Ethanol
+Acetone
+Amphetamine
+Methamphetamine
+Cannabinoids
+Ethanol
+Acetone
+Cannabinoids
+Morphine, free
+Morphine-glucuronide, bound
+6-Monoacetylmorphine
+No controlled substance(s) or common ph
+Ethanol
+Acetone
+Alprazolam
+Cyclobenzaprine
+Sertraline
+Fentanyl
+Metoprolol
+Oxycodone
+Phenytoin
+Ethanol
+Acetone
+Ethanol
+Acetone
+Methamphetamine
+Amphetamine
+Cannabinoids
+Ethanol
+Acetone
+Hydrocodone
+Dihydrocodeine
+Ethanol
+Acetone
+No controlled substance(s) or common ph
+Ethanol
+Acetone
+Ethanol
+Acetone
+Cannabinoids
+Amphetamine
+Methamphetamine
+Diphenhydramine
+Ethanol
+Acetone
+Methamphetamine
+Amphetamine
+Gabapentin
+Nortriptyline
+Ethanol
+Acetone
+Cannabinoids
+3,4-Methylenedioxymethamphetamine (MDMA)
+Ethanol
+Acetone
+No controlled substance(s) or common ph
+Ethanol
+Acetone
+Methadone
+Oxycodone
+Zolpidem
+7-Aminoclonazepam
+Gabapentin
+No controlled substance(s) or common ph
+Ethanol
+Acetone
+Ethanol
+Acetone
+Lamotrigine
+Ethanol
+Acetone
+Alprazolam
+No controlled substance(s) or common ph
+Ethanol
+Acetone
+Ethanol
+Acetone
+No controlled substance(s) or common ph
+Ethanol
+Acetone
+Citalopram/Escitalopram
+Hydrocodone
+Dihydrocodeine
+Cyclobenzaprine
+Citalopram/Escitalopram
+Amitriptyline
+Nortriptyline
+Morphine, free
+Codeine
+Ethanol
+Acetone
+No controlled substance(s) or common ph
+Ethanol
+Acetone
+No controlled substance(s) or common ph
+Ethanol
+Acetone
+Cannabinoids
+Acetaminophen
+Citalopram/Escitalopram
+Hydrocodone
+Dihydrocodeine
+Benzoylecgonine
+Ethanol
+Acetone
+No controlled substance(s) or common ph
+Ethanol
+Acetone
+Carboxyhemoglobin (COHb)
+Cannabinoids
+Cyclobenzaprine
+7-Aminoclonazepam
+Ethanol
+Acetone
+1,1-Difluoroethane
+Methamphetamine
+Ethanol
+Acetone
+Methamphetamine
+Ethanol
+Acetone
+Cannabinoids
+Ethanol
+Acetone
+Morphine, free
+Morphine-glucuronide, bound
+Morphine, total
+Codeine
+Cannabinoids
+Ethanol
+Acetone
+Ethanol
+Acetone
+No controlled substance(s) or common ph
+Ethanol
+Acetone
+Lamotrigine
+Ethanol
+Acetone
+Cannabinoids
+Ethanol
+Acetone
+Cannabinoids
+Hydromorphone
+Sertraline
+Ethanol
+Acetone
+7-Aminoclonazepam
+Amphetamine
+Doxepin
+Fentanyl
+Ethanol
+Acetone
+Cannabinoids
+7-Aminoclonazepam
+Ethanol
+Acetone
+Oxycodone
+Ethanol
+Acetone
+Ethanol
+Acetone
+Cannabinoids
+Methamphetamine
+Amphetamine
+Citalopram/Escitalopram
+Morphine, free
+Morphine-glucuronide, bound
+Ethanol
+Acetone
+No controlled substance(s) or common ph
+Citalopram/Escitalopram
+Ethanol
+Methamphetamine
+Amphetamine
+Ethanol
+Acetone
+Oxycodone
+Diazepam
+Nordiazepam
+Temazepam
+7-Aminoclonazepam
+Cyclobenzaprine
+Mirtazapine
+Ethanol
+Acetone
+Cannabinoids
+Ethanol
+Acetone
+Diphenhydramine
+Ethanol
+Acetone
+Cannabinoids
+Ethanol
+Acetone
+Cannabinoids
+Ethanol
+Acetone
+Zolpidem
+Hydrocodone
+Dihydrocodeine
+Oxycodone
+Ethanol
+Acetone
+Amitriptyline
+Nortriptyline
+Methadone
+Diazepam
+Nordiazepam
+Ethanol
+Acetone
+No controlled substance(s) or common ph
+Ethanol
+Acetone
+No controlled substance(s) or common ph
+Ethanol
+Acetone
+Chlordiazepoxide
+Nordiazepam
+Ethanol
+Acetone
+Fluoxetine
+Mirtazapine
+Lamotrigine
+Ethanol
+Acetone
+Diphenhydramine
+Citalopram/Escitalopram
+Trazodone
+Morphine, free
+Morphine-glucuronide, bound
+Morphine, total
+Codeine
+Ethanol
+Acetone
+Ethanol
+Acetone
+Tramadol
+Zolpidem
+Ethanol
+Acetone
+Temazepam
+Bupropion
+Diphenhydramine
+Ethanol
+Acetone
+Ibuprofen
+Ethanol
+Acetone
+No controlled substance(s) or common ph
+Ethanol
+Acetone
+Cannabinoids
+Cannabinoids
+Ethanol
+Acetone
+Gabapentin
+Alprazolam
+Hydrocodone
+Dihydrocodeine
+Oxycodone
+Olanzapine
+Ethanol
+Acetone
+Citalopram/Escitalopram
+7-Aminoclonazepam
+Hydrocodone
+Dihydrocodeine
+Gabapentin
+Mirtazapine
+Oxycodone
+Promethazine
+Ethanol
+Acetone
+Methamphetamine
+Amphetamine
+Ethanol
+Acetone
+Acetaminophen
+Diphenhydramine
+Ethanol
+Acetone
+Methadone
+Diazepam
+Nordiazepam
+Temazepam
+Butalbital
+Cannabinoids
+Ethanol
+Acetone
+Diazepam
+Ethanol
+Acetone
+Amitriptyline
+Oxycodone
+Venlafaxine
+Trazodone
+Acetaminophen
+Lorazepam
+Ethanol
+Acetone
+No controlled substance(s) or common ph
+Ethanol
+Acetone
+Cannabinoids
+Methamphetamine
+Carboxyhemoglobin (COHb)
+Ethanol
+Acetone
+Cannabinoids
+Quetiapine
+Trazodone
+Morphine, free
+Morphine-glucuronide, bound
+Morphine, total
+Methamphetamine
+Amphetamine
+Sertraline
+Ethanol
+Acetone
+No controlled substance(s) or common ph
+Ethanol
+Acetone
+Cannabinoids
+Methadone
+Doxepin
+Ethanol
+Acetone
+Ethanol
+Acetone
+Morphine, free
+Morphine-glucuronide, bound
+Morphine, total
+6-Monoacetylmorphine
+Codeine
+Diazepam
+Nordiazepam
+Cannabinoids
+Ethanol
+Acetone
+Mirtazapine
+Ethanol
+Acetone
+1,1-Difluoroethane
+Cannabinoids
+Doxepin
+Ethanol
+Acetone
+Acetaminophen
+Morphine, free
+Morphine-glucuronide, bound
+Hydrocodone
+Dihydrocodeine
+Citalopram/Escitalopram
+Ethanol
+Acetone
+Alprazolam
+Ethanol
+Acetone
+Methadone
+Ethanol
+Acetone
+Tramadol
+7-Aminoclonazepam
+Olanzapine
+Ethanol
+Acetone
+Morphine, free
+Morphine-glucuronide, bound
+Morphine, total
+Ethanol
+Acetone
+Methamphetamine
+Amphetamine
+Ethanol
+Acetone
+Codeine
+Morphine, free
+Morphine-glucuronide, bound
+Morphine, total
+Nordiazepam
+Methamphetamine
+Amphetamine
+Ethanol
+Acetone
+Ethanol
+Acetone
+Methanol
+Isopropanol
+Levetiracetam
+Ethanol
+Acetone
+Amitriptyline
+Nortriptyline
+Cyclobenzaprine
+Citalopram/Escitalopram
+Paroxetine
+Morphine, free
+Morphine-glucuronide, bound
+Morphine, total
+Codeine
+Ethanol
+Acetone
+Cannabinoids
+Ethanol
+Acetone
+Cannabinoids
+Methamphetamine
+Amphetamine
+Cocaine
+Ecgonine methyl ester
+Levamisole
+Benzoylecgonine
+6-Monoacetylmorphine
+Morphine, free
+Morphine-glucuronide, bound
+Morphine, total
+Codeine
+Oxycodone
+Ethanol
+Acetone
+Methamphetamine
+Methadone
+Morphine, free
+Morphine-glucuronide, bound
+Morphine, total
+Diazepam
+Nordiazepam
+Gabapentin
+Ibuprofen
+Diphenhydramine
+Cetirizine
+Verapamil
+Codeine
+Ethanol
+Acetone
+Cannabinoids
+3,4-Methylenedioxymethamphetamine (MDMA)
+Diazepam
+Nordiazepam
+Ethanol
+Acetone
+Cannabinoids
+Cocaine
+Benzoylecgonine
+Ecgonine methyl ester
+Ethanol
+Acetone
+Diazepam
+Nordiazepam
+Sertraline
+Alprazolam
+Morphine, free
+Morphine-glucuronide, bound
+Codeine
+Temazepam
+Methamphetamine
+Amphetamine
+Gabapentin
+Citalopram/Escitalopram
+Oxycodone
+Lorazepam
+Morphine, free
+Morphine-glucuronide, bound
+Ethanol
+Acetone
+Lidocaine
+Morphine, free
+Diazepam
+Nordiazepam
+Citalopram/Escitalopram
+Temazepam
+Zolpidem
+Trazodone
+Morphine, free
+Morphine-glucuronide, bound
+Ethanol
+Acetone
+Cannabinoids
+Methamphetamine
+Amphetamine
+Ethanol
+Acetone
+Venlafaxine
+Lamotrigine
+No controlled substance(s) or common ph
+Ethanol
+Acetone
+Ethanol
+Acetone
+Methamphetamine
+Amphetamine
+6-Monoacetylmorphine
+Morphine, free
+Morphine-glucuronide, bound
+Morphine, total
+Codeine
+Nordiazepam
+Ethanol
+Acetone
+No controlled substance(s) or common ph
+Ethanol
+Cannabinoids
+Acetone
+7-Aminoclonazepam
+Alprazolam
+Morphine, free
+Morphine-glucuronide, bound
+Codeine
+Ethanol
+Acetone
+Ethanol
+Acetone
+Diazepam
+Nordiazepam
+Temazepam
+Lorazepam
+Quetiapine
+Amphetamine
+Ethanol
+Acetone
+No controlled substance(s) or common ph
+Bupropion
+Amitriptyline
+Nortriptyline
+Amphetamine
+Methamphetamine
+Ethanol
+Acetone
+Ethanol
+Acetone
+Hydromorphone
+Ethanol
+Acetone
+Methamphetamine
+Amphetamine
+Morphine, free
+Morphine-glucuronide, bound
+Codeine
+Ethanol
+Acetone
+No controlled substance(s) or common ph
+Cannabinoids
+Ethanol
+Acetone
+Methamphetamine
+Amphetamine
+Oxycodone
+Ethanol
+Acetone
+Carboxyhemoglobin (COHb)
+7-Aminoclonazepam
+No controlled substance(s) or common ph
+Ethanol
+Acetone
+Nortriptyline
+Quetiapine
+No controlled substance(s) or common ph
+Ethanol
+Acetone
+Ethanol
+Acetone
+Cannabinoids
+Methamphetamine
+Amphetamine
+Cannabinoids
+Ethanol
+Acetone
+Ethanol
+Acetone
+Morphine, free
+Morphine-glucuronide, bound
+Ethanol
+Acetone
+No controlled substance(s) or common ph
+Methadone
+Methamphetamine
+Cannabinoids
+Ethanol
+Acetone
+Hydrocodone
+Dihydrocodeine
+Ethanol
+Acetone
+Hydrocodone
+Dihydrocodeine
+Fluoxetine
+Cannabinoids
+Ethanol
+Acetone
+Alprazolam
+Tramadol
+Zolpidem
+Fentanyl
+Fluoxetine
+Trazodone
+meta-Chlorophenylpiperazine
+Ethanol
+Acetone
+Cyclobenzaprine
+Lorazepam
+Lamotrigine
+Buspirone
+Ethanol
+Acetone
+Methamphetamine
+Amphetamine
+Hydrocodone
+Ethanol
+Acetone
+No controlled substance(s) or common ph
+Ethanol
+Acetone
+Methamphetamine
+Cannabinoids
+Ethanol
+Acetone
+Cannabinoids
+Caffeine
+Ethanol
+Acetone
+No controlled substance(s) or common ph
+Ethanol
+Acetone
+Carboxyhemoglobin (COHb)
+Ethanol
+Acetone
+Morphine, free
+Morphine-glucuronide, bound
+Benzoylecgonine
+Ecgonine methyl ester
+Citalopram/Escitalopram
+No controlled substance(s) or common ph
+Ethanol
+Acetone
+Ethanol
+Acetone
+Cannabinoids
+Methadone
+Morphine, free
+Morphine-glucuronide
+Acetaminophen
+Quetiapine
+Ethanol
+Acetone
+Nordiazepam
+Codeine
+Morphine, free
+Morphine-glucuronide, bound
+Morphine, total
+Ethanol
+Acetone
+Amphetamine
+Methamphetamine
+Ethanol
+Acetone
+Cannabinoids
+Ethanol
+Acetone
+Amitriptyline
+Nortriptyline
+Methadone
+Ethanol
+Acetone
+Bupropion
+Venlafaxine
+Nortriptyline
+Cannabinoids
+Cannabinoids
+Ethanol
+Acetone
+Cannabinoids
+Methadone
+Methamphetamine
+Amphetamine
+Ethanol
+Acetone
+Oxycodone
+Lorazepam
+Gabapentin
+Carbamazepine
+Ethanol
+Acetone
+Ethanol
+Acetone
+Alprazolam
+Cocaine
+Benzoylecgonine
+Ecgonine methyl ester
+Cocaethylene
+Levamisole
+Ecgonine ethyl ester
+Diphenhydramine
+Ethanol
+Acetone
+No controlled substance(s) or common ph
+Ethanol
+Acetone
+No controlled substance(s) or common ph
+Ethanol
+Acetone
+Methadone
+Methamphetamine
+Amphetamine
+Alprazolam
+Zolpidem
+Ethanol
+Acetone
+Diphenhydramine
+Ethanol
+Acetone
+Cannabinoids
+No controlled substance(s) or common ph
+Ethanol
+Acetone
+Ethanol
+Acetone
+Benzoylecgonine
+Ethanol
+Acetone
+Cannabinoids
+Ethanol
+Acetone
+Oxycodone
+Alprazolam
+Lorazepam
+Zolpidem
+Cyclobenzaprine
+Alprazolam
+Hydrocodone
+Morphine-glucuronide, bound
+Morphine, total
+Codeine
+Ethanol
+Acetone
+Ethanol
+Acetone
+Ibuprofen
+Cannabinoids
+Ethanol
+Acetone
+Methamphetamine
+Amphetamine
+Cannabinoids
+Ethanol
+Acetone
+Morphine, free
+Morphine-glucuronide, bound
+Morphine, total
+6-Monoacetylmorphine
+Codeine
+Ethanol
+Acetone
+No controlled substance(s) or common ph
+Ethanol
+Acetone
+Cannabinoids
+Sertraline
+Ethanol
+Acetone
+No controlled substance(s) or common ph
+Ethanol
+Acetone
+Gabapentin
+7-Aminoclonazepam
+Quetiapine
+Morphine, free
+Morphine-glucuronide, bound
+Morphine, total
+Codeine
+Amphetamine
+Methamphetamine
+Cannabinoids
+Ethanol
+Acetone
+Ethanol
+Acetone
+Amphetamine
+Methamphetamine
+Codeine
+Morphine, free
+Morphine-glucuronide, bound
+Morphine, total
+Ethanol
+Acetone
+No controlled substance(s) or common ph
+Bupropion
+Olanzapine
+Gabapentin
+Trazodone
+Ethanol
+Acetone
+Ethanol
+Acetone
+Carboxyhemoglobin (COHb)
+Morphine, free
+Morphine-glucuronide, bound
+Morphine, total
+Codeine
+6-Monoacetylmorphine
+Methamphetamine
+Amphetamine
+Trazodone
+Ethanol
+Acetone
+Morphine, free
+Morphine-glucuronide, bound
+Morphine, total
+Codeine
+Cyclobenzaprine
+Diazepam
+Nordiazepam
+Citalopram/Escitalopram
+Fluoxetine
+Ethanol
+Acetone
+Cannabinoids
+Ethanol
+Acetone
+Cannabinoids
+Amitriptyline
+Nortriptyline
+Methadone
+Oxycodone
+Gabapentin
+Tramadol
+Methamphetamine
+Amphetamine
+Diazepam
+Nordiazepam
+Ethanol
+Acetone
+Methadone
+Diazepam
+Nordiazepam
+Nortriptyline
+Diphenhydramine
+Ethanol
+Acetone
+No controlled substance(s) or common ph
+Ethanol
+Acetone
+Cannabinoids
+Ethanol
+Acetone
+Cannabinoids
+Ethanol
+Acetone
+Cannabinoids
+6-Monoacetylmorphine
+Morphine, free
+Morphine-glucuronide, bound
+Morphine, total
+Codeine
+Alprazolam
+No controlled substance(s) or common ph
+Ethanol
+Acetone
+Ethanol
+Acetone
+Cannabinoids
+Cannabinoids
+Oxycodone
+Ethanol
+Acetone
+Morphine, free
+Morphine-glucuronide, bound
+Codeine
+6-Monoacetylmorphine
+Methamphetamine
+Amphetamine
+Citalopram/Escitalopram
+Alprazolam
+Mirtazapine
+Cyclobenzaprine
+Ethanol
+Acetone
+Morphine, free
+Morphine-glucuronide, bound
+Morphine, total
+Oxycodone
+Topiramate
+Ethanol
+Acetone
+Ethanol
+Acetone
+Morphine, free
+Morphine-glucuronide, bound
+Morphine, total
+6-Monoacetylmorphine
+Codeine
+Methamphetamine
+Amphetamine
+Ethanol
+Acetone
+Cannabinoids
+Oxycodone
+Midazolam
+Ethanol
+Acetone
+Cannabinoids
+Ethanol
+Acetone
+Cannabinoids
+Ethanol
+Diphenhydramine
+Ethanol
+Acetone
+Methamphetamine
+Amphetamine
+Methadone
+EDDP (methadone metabolite)
+Morphine, free
+Morphine-glucuronide, bound
+Diphenhydramine
+Ethanol
+Acetone
+Ethanol
+Acetone
+No controlled substance(s) or common ph
+Carboxyhemoglobin (COHb)
+Ethanol
+Acetone
+Amitriptyline
+Nortriptyline
+Oxycodone
+Diazepam
+Acetaminophen
+Paroxetine
+No controlled substance(s) or common ph
+Ethanol
+Acetone
+Amphetamines
+Ethanol
+Acetone
+Ethanol
+Acetone
+Acetaminophen
+Cannabinoids
+Ethanol
+Acetone
+Bupropion
+Ethanol
+Acetone
+Ethanol
+Acetone
+No controlled substance(s) or common ph
+Ethanol
+Acetone
+Methadone
+Citalopram/Escitalopram
+Cannabinoids
+Carboxyhemoglobin (COHb)
+Ethanol
+Acetone
+Paroxetine
+Diazepam
+Nordiazepam
+Oxycodone
+Topiramate
+Ethanol
+Acetone
+No controlled substance(s) or common ph
+Ethanol
+Acetone
+No controlled substance(s) or common ph
+Ethanol
+Acetone
+Methamphetamine
+Amphetamine
+Ethanol
+Acetone
+Hydrocodone
+Dihydrocodeine
+Ethanol
+Acetone
+Cyclobenzaprine
+Diazepam
+Nordiazepam
+Meperidine
+Mirtazapine
+Morphine, free
+Morphine-glucuronide, bound
+Morphine, total
+Gabapentin
+Paroxetine
+Ethanol
+Acetone
+No controlled substance(s) or common ph
+Methamphetamine
+Amphetamine
+Amitriptyline
+Ethanol
+Acetone
+Dihydrocodeine
+Quetiapine
+Amitriptyline
+Nortriptyline
+Ethanol
+Acetone
+No controlled substance(s) or common ph
+Ethanol
+Acetone
+Venlafaxine
+Norvenlafaxine
+Cannabinoids
+Ethanol
+Acetone
+Alprazolam
+Dihydrocodeine
+Hydrocodone
+Sertraline
+Morphine, free
+Morphine-glucuronide, bound
+Ethanol
+Acetone
+Cannabinoids
+Amphetamines
+Cocaine
+Methamphetamine
+Opiates
+Ethanol
+Acetone
+Ethanol
+Acetone
+No controlled substance(s) or common ph
+Ethanol
+Acetone
+Oxycodone
+Amitriptyline
+7-Aminoclonazepam
+Fluoxetine
+Diphenhydramine
+Acetaminophen
+Midazolam
+Ethanol
+Acetone
+No controlled substance(s) or common ph
+Ethanol
+Acetone
+Carboxyhemoglobin (COHb)
+Ethanol
+Acetone
+No controlled substance(s) or common ph
+Cannabinoids
+Morphine, free
+Morphine-glucuronide, bound
+Morphine, total
+Codeine
+7-Aminoclonazepam
+Ethanol
+Acetone
+Citalopram/Escitalopram
+Amphetamine
+Methamphetamine
+Ethanol
+Acetone
+Morphine, free
+Alprazolam
+7-Aminoclonazepam
+Oxycodone
+Codeine
+Ethanol
+Acetone
+Cannabinoids
+Methamphetamine
+Amphetamine
+7-Aminoclonazepam
+Cyclobenzaprine
+Ethanol
+Acetone
+Ethanol
+Acetone
+Amitriptyline
+Nortriptyline
+7-Aminoclonazepam
+Cannabinoids
+Ethanol
+Acetone
+Methadone
+Alprazolam
+Ethanol
+Acetone
+Methamphetamine
+Amphetamine
+Ethanol
+Acetone
+Ibuprofen
+Ethanol
+Acetone
+Cannabinoids
+Ethanol
+Acetone
+No controlled substance(s) or common ph
+Ethanol
+Acetone
+Methamphetamine
+Amphetamine
+Ethanol
+Acetone
+No controlled substance(s) or common ph
+Ethanol
+Acetone
+Norvenlafaxine
+Cyclobenzaprine
+Trazodone
+meta-Chlorophenylpiperazine
+Venlafaxine
+Ethanol
+Acetone
+Methadone
+Tramadol
+Fluoxetine
+Hydrocodone
+Dihydrocodeine
+Citalopram/Escitalopram
+7-Aminoclonazepam
+Diphenhydramine
+Ethanol
+Acetone
+Nortriptyline
+Cannabinoids
+Ethanol
+Acetone
+Morphine, free
+Morphine-glucuronide, bound
+Morphine, total
+Codeine
+Cyclobenzaprine
+Ethanol
+Acetone
+No controlled substance(s) or common ph
+Ethanol
+Acetone
+Ethanol
+Acetone
+Methadone
+Alprazolam
+Cannabinoids
+Ethanol
+Acetone
+Alprazolam
+Hydrocodone
+Dihydrocodeine
+Amitriptyline
+Nortriptyline
+Amphetamine
+Cyclobenzaprine
+Carboxyhemoglobin (COHb)
+No controlled substance(s) or common ph
+Ethanol
+Acetone
+Ethanol
+Acetone
+Cannabinoids
+Carboxyhemoglobin (COHb)
+Cannabinoids
+Methadone
+Diazepam
+Nordiazepam
+Temazepam
+Ethanol
+Acetone
+Lamotrigine
+Quetiapine
+Oxycodone
+Acetone
+Oxycodone
+Methamphetamine
+Amphetamine
+Cyclobenzaprine
+Diazepam
+Olanzapine
+Ethanol
+Acetone
+No controlled substance(s) or common ph
+Ethanol
+Acetone
+Morphine, free
+Morphine-glucuronide, bound
+Morphine, total
+6-Monoacetylmorphine
+Codeine
+Trimethoprim
+Cannabinoids
+Ethanol
+Acetone
+Sertraline
+Ethanol
+Acetone
+Zolpidem
+Ethanol
+Acetone
+Cannabinoids
+Ethanol
+Acetone
+No controlled substance(s) or common ph
+Ethanol
+Acetone
+Cannabinoids
+Ethanol
+Acetone
+Methamphetamine
+Amphetamine
+Ethanol
+Acetone
+Cannabinoids
+Ethanol
+Acetone
+Diphenhydramine
+Ethanol
+Acetone
+Cannabinoids
+Morphine, free
+Morphine-glucuronide, bound
+Morphine, total
+Codeine
+Cannabinoids
+Acetaminophen
+Ibuprofen
+Ethanol
+Acetone
+No controlled substance(s) or common ph
+Ethanol
+Acetone
+Cannabinoids
+Diazepam
+Nordiazepam
+Ethanol
+Acetone
+Codeine
+Morphine, free
+Morphine-glucuronide, bound
+Benzoylecgonine
+Cocaine
+Ecgonine methyl ester
+Ethanol
+Acetone
+Lorazepam
+Methadone
+Zolpidem
+Ethanol
+Acetone
+Venlafaxine
+Fentanyl
+Ethanol
+Acetone
+Cannabinoids
+Ethanol
+Acetone
+Hydrocodone
+Dihydrocodeine
+Amitriptyline
+Nortriptyline
+Nortriptyline
+Cannabinoids
+Ethanol
+Acetone
+No controlled substance(s) or common ph
+Ethanol
+Acetone
+Alprazolam
+Methadone
+Oxycodone
+Zolpidem
+Ethanol
+Acetone
+No controlled substance(s) or common ph
+Ethanol
+Acetone
+Amitriptyline
+Nortriptyline
+Ethanol
+Ethanol
+Acetone
+Oxycodone
+Ethanol
+Acetone
+Sertraline
+Lorazepam
+Hydrocodone
+Gabapentin
+Ethanol
+Acetone
+Cannabinoids
+Cannabinoids
+Ethanol
+Acetone
+Oxycodone
+Alprazolam
+Diazepam
+Nordiazepam
+Quetiapine
+Ethanol
+Acetone
+Benzoylecgonine
+Ecgonine methyl ester
+Ethanol
+Acetone
+Carisoprodol
+Meprobamate
+Gabapentin
+No controlled substance(s) or common ph
+Ethanol
+Acetone
+Ethanol
+Acetone
+Methadone
+Hydrocodone
+Dihydrocodeine
+Cyclobenzaprine
+Gabapentin
+Ethanol
+Acetone
+Methadone
+Methamphetamine
+Morphine, free
+Morphine-glucuronide, bound
+Morphine, total
+6-Monoacetylmorphine
+Codeine
+Ethanol
+Acetone
+Methamphetamine
+Amphetamine
+Ethanol
+Acetone
+Cannabinoids
+Ethanol
+Acetone
+No controlled substance(s) or common ph
+Amphetamine
+Methamphetamine
+Codeine
+Morphine, free
+Morphine-glucuronide, bound
+Morphine, total
+Ethanol
+Acetone
+Cannabinoids
+Hydrocodone
+Dihydrocodeine
+Methamphetamine
+Amphetamine
+7-Aminoclonazepam
+Morphine, free
+Morphine-glucuronide, bound
+Morphine, total
+Codeine
+Cannabinoids
+Ethanol
+Acetone
+Amitriptyline
+Nortriptyline
+Acetaminophen
+Ethanol
+Acetone
+No controlled substance(s) or common ph
+Ethanol
+Acetone
+Cannabinoids
+Cocaine
+Ecgonine methyl ester
+Benzoylecgonine
+Methamphetamine
+Ethanol
+Acetone
+Morphine
+Codeine
+Ethanol
+Acetone
+Methamphetamine
+Amphetamine
+Ethanol
+Acetone
+Methamphetamine
+Amphetamine
+Ethanol
+Acetone
+No controlled substance(s) or common ph
+Ethanol
+Acetone
+Cannabinoids
+Methadone
+Sertraline
+Lorazepam
+Fluoxetine
+Ethanol
+Acetone
+Venlafaxine
+Nortriptyline
+Cyclobenzaprine
+Ethanol
+Acetone
+Cannabinoids
+Tramadol
+Benzoylecgonine
+Ethanol
+Acetone
+Cannabinoids
+Ethanol
+Acetone
+Methamphetamine
+Amphetamine
+Ethanol
+Acetone
+Cannabinoids
+Ethanol
+Acetone
+Amphetamine
+Lorazepam
+Bupropion
+7-Aminoclonazepam
+Trazodone
+meta-Chlorophenylpiperazine
+Lamotrigine
+Diphenhydramine
+Doxylamine
+Dextromethorphan
+Ethanol
+Acetone
+Cannabinoids
+Diphenhydramine
+Ibuprofen
+Ethanol
+Acetone
+Methamphetamine
+Amphetamine
+Diazepam
+Morphine, free
+Ethanol
+Acetone
+Ethanol
+Acetone
+Methamphetamine
+Amphetamine
+Morphine, free
+Morphine-glucuronide, bound
+Morphine, total
+Codeine
+Cannabinoids
+Morphine, free
+Morphine-glucuronide, bound
+Morphine, total
+Ethanol
+Acetone
+Gabapentin
+Cannabinoids
+Ethanol
+Acetone
+Oxycodone
+Sertraline
+7-Aminoclonazepam
+Zolpidem
+Gabapentin
+Lamotrigine
+No controlled substance(s) or common ph
+Ethanol
+Acetone
+Ethanol
+Acetone
+Hydrocodone
+Acetaminophen
+Ethanol
+Acetone
+No controlled substance(s) or common ph
+Ethanol
+Acetone
+Cannabinoids
+Methamphetamine
+Amphetamine
+Ethanol
+Acetone
+Oxycodone
+Zolpidem
+7-Aminoclonazepam
+Ethanol
+Acetone
+Methamphetamine
+Amphetamine
+Ethanol
+Acetone
+Cannabinoids
+Methamphetamine
+Amphetamine
+Oxycodone
+Ethanol
+Acetone
+Diphenhydramine
+Gabapentin
+Ethanol
+Acetone
+Morphine
+Ethanol
+Acetone
+Methamphetamine
+Amphetamine
+Alprazolam
+Diazepam
+Nordiazepam
+Ethanol
+Acetone
+No controlled substance(s) or common ph
+Ethanol
+Acetone
+Cannabinoids
+Methamphetamine
+Amphetamine
+Ethanol
+Acetone
+Ethanol
+Acetone
+Diazepam
+Nordiazepam
+Ethanol
+Acetone
+Diphenhydramine
+Lamotrigine
+Diazepam
+Nordiazepam
+Cannabinoids
+Ethanol
+Acetone
+Morphine, free
+6-Monoacetylmorphine
+Codeine
+Hydrocodone
+Diphenhydramine
+Ethanol
+Acetone
+Methamphetamine
+Amphetamine
+Carboxyhemoglobin (COHb)
+Ethanol
+Acetone
+No controlled substance(s) or common ph
+Cannabinoids
+Ethanol
+Acetone
+Cannabinoids
+Ethanol
+Acetone
+Cannabinoids
+Ethanol
+Acetone
+Fluoxetine
+Topiramate
+Cyclobenzaprine
+Oxycodone
+Alprazolam
+Ethanol
+Acetone
+Ethanol
+Acetone
+Amitriptyline
+Nortriptyline
+Cannabinoids
+Ethanol
+Acetone
+Citalopram/Escitalopram
+Ethanol
+Acetone
+Cannabinoids
+Cannabinoids
+Ethanol
+Acetone
+Methamphetamine
+Paroxetine
+Ethanol
+Acetone
+No controlled substance(s) or common ph
+Ethanol
+Acetone
+Hydrocodone
+Dihydrocodeine
+Gabapentin
+Ethanol
+Acetone
+7-Aminoclonazepam
+Hydrocodone
+Methadone
+Oxycodone
+Clomipramine
+Mirtazapine
+6-Monoacetylmorphine
+Morphine, free
+Morphine-glucuronide, bound
+Codeine
+Ethanol
+Acetone
+7-Aminoclonazepam
+Dextromethorphan
+Gabapentin
+Methadone
+Venlafaxine
+Tramadol
+Quetiapine
+Diazepam
+Nordiazepam
+Temazepam
+Ethanol
+Acetone
+Methamphetamine
+Amphetamine
+Ethanol
+Acetone
+Ethanol
+Acetone
+6-Monoacetylmorphine
+Morphine, free
+Codeine
+Ethanol
+Acetone
+Cannabinoids
+Carboxyhemoglobin (COHb)
+Ethanol
+Acetone
+Methamphetamine
+Amphetamine
+Cannabinoids
+Ethanol
+Acetone
+Cannabinoids
+Ethanol
+Acetone
+Ethanol
+Acetone
+Zolpidem
+Oxycodone
+Venlafaxine
+Methadone
+Methadone
+Citalopram/Escitalopram
+Hydrocodone
+Ethanol
+Acetone
+No controlled substance(s) or common ph
+Ethanol
+Acetone
+Morphine, free
+Morphine-glucuronide, bound
+Ethanol
+Acetone
+Cannabinoids
+Ethanol
+Acetone
+Diazepam
+Nordiazepam
+Temazepam
+Morphine, free
+Morphine-glucuronide, bound
+Morphine, total
+Hydromorphone
+Ethanol
+Acetone
+Morphine, free
+Morphine-glucuronide, bound
+Morphine, total
+6-Monoacetylmorphine
+Codeine
+Methamphetamine
+Lidocaine
+Cannabinoids
+Ethanol
+Acetone
+Morphine, free
+Morphine-glucuronide, bound
+Morphine, total
+Codeine
+Mirtazapine
+No controlled substance(s) or common ph
+Ethanol
+Acetone
+Ethanol
+Acetone
+Cannabinoids
+Cocaine
+Ecgonine methyl ester
+Benzoylecgonine
+Methamphetamine
+Ethanol
+Acetone
+Acetaminophen
+Ethanol
+Acetone
+No controlled substance(s) or common ph
+Methamphetamine
+Amphetamine
+Ethanol
+Acetone
+Fentanyl
+Citalopram/Escitalopram
+Alprazolam
+Morphine-glucuronide, bound
+Morphine, total
+Codeine
+Cannabinoids
+Ethanol
+Acetone
+Hydrocodone
+Dihydrocodeine
+Ethanol
+Acetone
+Olanzapine
+Methamphetamine
+Amphetamine
+Ethanol
+Acetone
+Ethanol
+Acetone
+Diazepam
+Nordiazepam
+Temazepam
+Benzoylecgonine
+Ecgonine methyl ester
+Diphenhydramine
+6-Monoacetylmorphine
+Morphine, free
+Morphine-glucuronide, bound
+Morphine, total
+Codeine
+Ethanol
+Acetone
+Diazepam
+Ethanol
+Acetone
+No controlled substance(s) or common ph
+Cannabinoids
+Ethanol
+Acetone
+Cocaine
+Benzoylecgonine
+Ecgonine methyl ester
+Cocaethylene
+Levamisole
+Ethanol
+Acetone
+Cannabinoids
+No controlled substance(s) or common ph
+Ethanol
+Acetone
+No controlled substance(s) or common ph
+Ethanol
+Acetone
+Ethanol
+Acetone
+No controlled substance(s) or common ph
+Ethanol
+Acetone
+Methamphetamine
+Amphetamine
+Methadone
+Quetiapine
+Diphenhydramine
+Cannabinoids
+Morphine, free
+Morphine-glucuronide, bound
+Cannabinoids
+Ethanol
+Acetone
+Ethanol
+Acetone
+Methamphetamine
+Amphetamine
+Ethanol
+Acetone
+Methamphetamine
+Amphetamine
+Oxycodone
+Hydrocodone
+Ethanol
+Acetone
+Hydrocodone
+Dihydrocodeine
+Pregabalin
+Trazodone
+Ethanol
+Acetone
+Cannabinoids
+Ethanol
+Ethanol
+Acetone
+No controlled substance(s) or common ph
+Ethanol
+Acetone
+6-Monoacetylmorphine
+Morphine, free
+Morphine-glucuronide, bound
+Morphine, total
+Codeine
+Hydrocodone
+Dihydrocodeine
+Citalopram/Escitalopram
+Ethanol
+Acetone
+Cannabinoids
+Ethanol
+Acetone
+Morphine-glucuronide, bound
+Ethanol
+Acetone
+Methamphetamine
+Amphetamine
+Ethanol
+Acetone
+Cannabinoids
+No controlled substance(s) or common ph
+Ethanol
+Acetone
+No controlled substance(s) or common ph
+Ethanol
+Acetone
+Ethanol
+Acetone
+Cannabinoids
+Ethanol
+Acetone
+Morphine, free
+Morphine-glucuronide, bound
+Morphine, total
+Hydrocodone
+Zolpidem
+Ethanol
+Acetone
+Tramadol
+Zolpidem
+Oxycodone
+Diazepam
+Nordiazepam
+Ethanol
+Acetone
+No controlled substance(s) or common ph
+Ethanol
+Acetone
+No controlled substance(s) or common ph
+Ethanol
+Acetone
+Cannabinoids
+Morphine, free
+Morphine-glucuronide, bound
+Codeine
+Lorazepam
+Ethanol
+Acetone
+6-Monoacetylmorphine
+Morphine, free
+Morphine-glucuronide, bound
+Codeine
+Methamphetamine
+Amphetamine
+Cannabinoids
+Ethanol
+Acetone
+Cannabinoids
+7-Aminoclonazepam
+Ethanol
+Acetone
+Methamphetamine
+Amphetamine
+Methadone
+Hydrocodone
+Dihydrocodeine
+Citalopram/Escitalopram
+Gabapentin
+6-Monoacetylmorphine
+Morphine, free
+Oxycodone
+Venlafaxine
+Norvenlafaxine
+Ethanol
+Acetone
+Alprazolam
+Cyclobenzaprine
+Bupropion
+Ethanol
+Acetone
+No controlled substance(s) or common ph
+Ethanol
+Acetone
+Oxycodone
+Ethanol
+Acetone
+No controlled substance(s) or common ph
+Ethanol
+Acetone
+Ethanol
+Acetone
+Methamphetamine
+Amphetamine
+Lidocaine
+Ethanol
+Acetone
+No controlled substance(s) or common ph
+Ethanol
+Acetone
+Alprazolam
+Diphenhydramine
+Methadone
+Paroxetine
+Zolpidem
+Ethanol
+Acetone
+Cannabinoids
+Methadone
+Methamphetamine
+Amphetamine
+6-Monoacetylmorphine
+Morphine, free
+Morphine-glucuronide, bound
+Morphine, total
+Codeine
+Ethanol
+Acetone
+No controlled substance(s) or common ph
+Ethanol
+Acetone
+7-Aminoclonazepam
+Gabapentin
+Methadone
+Paroxetine
+Promethazine
+Morphine, free
+Morphine-glucuronide, bound
+Morphine, total
+Mirtazapine
+Clomipramine
+Ethanol
+Acetone
+Ethanol
+Acetone
+Cannabinoids
+Cannabinoids
+Citalopram/Escitalopram
+Lidocaine
+Trazodone
+Ethanol
+Acetone
+No controlled substance(s) or common ph
+Ethanol
+Acetone
+Carboxyhemoglobin (COHb)
+Ethanol
+Acetone
+No controlled substance(s) or common ph
+Ethanol
+Acetone
+No controlled substance(s) or common ph
+Cannabinoids
+Ethanol
+Acetone
+Methadone
+Venlafaxine
+Oxycodone
+Ethanol
+Acetone
+Hydromorphone
+Trazodone
+Methamphetamine
+Amphetamine
+Fentanyl
+Venlafaxine
+7-Aminoclonazepam
+Butalbital
+Norvenlafaxine
+Ethanol
+Acetone
+Lamotrigine
+Methamphetamine
+Amphetamine
+7-Aminoclonazepam
+Lamotrigine
+Ethanol
+Acetone
+Cannabinoids
+Cannabinoids
+Ethanol
+Acetone
+Morphine, free
+Morphine-glucuronide, bound
+Morphine, total
+6-Monoacetylmorphine
+Codeine
+Diphenhydramine
+Ethanol
+Acetone
+Ethanol
+Acetone
+Citalopram/Escitalopram
+Oxycodone
+Ethanol
+Acetone
+No controlled substance(s) or common ph
+Ethanol
+Acetone
+Diazepam
+Nordiazepam
+Tramadol
+Zolpidem
+Oxycodone
+Zolpidem
+Ethanol
+Acetone
+Ethanol
+Acetone
+Cannabinoids
+Desipramine
+Citalopram/Escitalopram
+Ethanol
+Acetone
+Methadone
+Hydrocodone
+Dihydrocodeine
+Ethanol
+Acetone
+No controlled substance(s) or common ph
+Ethanol
+Acetone
+Cannabinoids
+Ethanol
+Acetone
+Cannabinoids
+Ethanol
+Acetone
+Methamphetamine
+Amphetamine
+7-Aminoclonazepam
+Ethanol
+Acetone
+Methadone
+7-Aminoclonazepam
+No controlled substance(s) or common ph
+Ethanol
+Acetone
+Ethanol
+Acetone
+No controlled substance(s) or common ph
+Ethanol
+Acetone
+No controlled substance(s) or common ph
+Cannabinoids
+Ethanol
+Acetone
+No controlled substance(s) or common ph
+Ethanol
+Acetone
+No controlled substance(s) or common ph
+Cannabinoids
+Ethanol
+Acetone
+Oxycodone
+Oxymorphone
+Hydrocodone
+Dihydrocodeine
+Venlafaxine
+7-Aminoclonazepam
+Diphenhydramine
+Acetaminophen
+Ethanol
+Acetone
+Oxycodone
+Chlordiazepoxide
+Nordiazepam
+7-Aminoclonazepam
+Lamotrigine
+Promethazine
+Fluoxetine
+Cannabinoids
+Ethanol
+Acetone
+Methadone
+Morphine, free
+Morphine-glucuronide, bound
+Morphine, total
+Codeine
+Ethanol
+Acetone
+No controlled substance(s) or common ph
+Cannabinoids
+Ethanol
+Acetone
+Ethanol
+Acetone
+Cannabinoids
+Ethanol
+Acetone
+6-Monoacetylmorphine
+Morphine, free
+Morphine-glucuronide, bound
+Codeine
+Ethanol
+Acetone
+Nordiazepam
+Ethanol
+Acetone
+Cannabinoids
+Ethanol
+Acetone
+No controlled substance(s) or common ph
+Ethanol
+Acetone
+Methamphetamine
+Amphetamine
+Methadone
+Oxycodone
+Ethanol
+Acetone
+Cannabinoids
+Alprazolam
+Morphine, free
+Morphine-glucuronide, bound
+Morphine, total
+Hydrocodone
+Dihydrocodeine
+Ethanol
+Acetone
+No controlled substance(s) or common ph
+Ethanol
+Acetone
+Cannabinoids
+No controlled substance(s) or common ph
+Ethanol
+Acetone
+Ethanol
+Acetone
+Methadone
+Methamphetamine
+Ethanol
+Acetone
+Morphine-glucuronide, bound
+Codeine
+Promethazine
+Ethanol
+Acetone
+Hydrocodone
+Dihydrocodeine
+Citalopram/Escitalopram
+Clonazepam
+7-Aminoclonazepam
+Quetiapine
+Ethanol
+Morphine
+Morphine-glucuronide, bound
+Codeine
+Temazepam
+Oxazepam
+Acetone
+Ethanol
+Acetone
+6-Monoacetylmorphine
+Morphine, free
+Morphine-glucuronide, bound
+Codeine
+Amitriptyline
+Nortriptyline
+Hydrocodone
+Ethanol
+Acetone
+Cannabinoids
+Ethanol
+Acetone
+Midazolam
+Topiramate
+Ethanol
+Acetone
+Oxycodone
+Methadone
+Fentanyl
+Zolpidem
+Gabapentin
+Ethanol
+Acetone
+Doxepin
+Midazolam
+Lorazepam
+Bupropion
+Cannabinoids
+Citalopram/Escitalopram
+Cannabinoids
+Ethanol
+Acetone
+6-Monoacetylmorphine
+Morphine, free
+Morphine-glucuronide, bound
+Morphine, total
+Codeine
+Methadone
+Ethanol
+Acetone
+Methamphetamine
+Amphetamine
+Ethanol
+Acetone
+1,1-Difluoroethane
+Sertraline
+No controlled substance(s) or common ph
+Ethanol
+Acetone
+Ethanol
+Acetone
+Methadone
+Citalopram/Escitalopram
+Morphine-glucuronide, bound
+Cannabinoids
+Ethanol
+Acetone
+Diazepam
+Nordiazepam
+Hydrocodone
+Dihydrocodeine
+Oxycodone
+Ethanol
+Acetone
+No controlled substance(s) or common ph
+Ethanol
+Acetone
+Phenobarbital
+No controlled substance(s) or common ph
+Cannabinoids
+Ethanol
+Acetone
+Morphine, free
+Morphine-glucuronide, bound
+Hydrocodone
+Dihydrocodeine
+Sertraline
+Alprazolam
+7-Aminoclonazepam
+Clonazepam
+Diphenhydramine
+Morphine, free
+Morphine-glucuronide, bound
+Morphine, total
+7-Aminoclonazepam
+Clonazepam
+Cannabinoids
+Ethanol
+Acetone
+Ethanol
+Acetone
+Methadone
+7-Aminoclonazepam
+Ethanol
+Acetone
+Oxycodone
+Temazepam
+Oxazepam
+Amitriptyline
+Nortriptyline
+Cannabinoids
+Ethanol
+Acetone
+Ethanol
+Acetone
+Amitriptyline
+Nortriptyline
+Citalopram/Escitalopram
+Ethanol
+Acetone
+No controlled substance(s) or common ph
+Ethanol
+Acetone
+Methamphetamine
+Amphetamine
+Tramadol
+Ethanol
+Acetone
+Methamphetamine
+Amphetamine
+Cannabinoids
+Ethanol
+Acetone
+Methamphetamine
+Amphetamine
+Ethanol
+Acetone
+Cannabinoids
+Citalopram/Escitalopram
+Cannabinoids
+Ethanol
+Acetone
+6-Monoacetylmorphine
+Morphine, free
+Morphine-glucuronide, bound
+Codeine
+Mirtazapine
+Ethanol
+Acetone
+Doxylamine
+Cannabinoids
+Ethanol
+Acetone
+No controlled substance(s) or common ph
+Ethanol
+Acetone
+Sertraline
+Cyclobenzaprine
+Hydrocodone
+Dihydrocodeine
+Amitriptyline
+Nortriptyline
+Cannabinoids
+Carboxyhemoglobin (COHb)
+Ethanol
+Acetone
+No controlled substance(s) or common ph
+Ethanol
+Acetone
+Cocaine
+Ecgonine methyl ester
+Benzoylecgonine
+Clozapine
+Cocaethylene
+Ethanol
+Acetone
+Methamphetamine
+Amphetamine
+Gabapentin
+Carbamazepine
+Diazepam
+Nordiazepam
+Temazepam
+Morphine, free
+Morphine-glucuronide, bound
+Ethanol
+Acetone
+Ethanol
+Acetone
+Morphine, free
+Morphine-glucuronide, bound
+Morphine, total
+No controlled substance(s) or common ph
+Ethanol
+Acetone
+Ethanol
+Acetone
+Topiramate
+Ethanol
+Acetone
+No controlled substance(s) or common ph
+Ethanol
+Acetone
+Diphenhydramine
+Methamphetamine
+Amphetamine
+Ethanol
+Acetone
+Alprazolam
+Mirtazapine
+Olanzapine
+Phenobarbital
+Gabapentin
+Ethanol
+Acetone
+No controlled substance(s) or common ph
+Ethanol
+Acetone
+No controlled substance(s) or common ph
+No controlled substance(s) or common ph
+Ethanol
+Acetone
+Ethanol
+Acetone
+Methamphetamine
+Amphetamine
+Ethanol
+Acetone
+Morphine, free
+Morphine-glucuronide, bound
+Morphine, total
+Venlafaxine
+Gabapentin
+Meprobamate
+Norvenlafaxine
+Cannabinoids
+Ethanol
+Acetone
+Methadone
+Alprazolam
+Hydrocodone
+Ethanol
+Acetone
+Nordiazepam
+Hydrocodone
+Ethanol
+Acetone
+No controlled substance(s) or common ph
+Ethanol
+Acetone
+Methamphetamine
+Amphetamine
+Hydrocodone
+Ethanol
+Acetone
+No controlled substance(s) or common ph
+Ethanol
+Acetone
+Hydrocodone
+Dihydrocodeine
+Ethanol
+Acetone
+Hydrocodone
+Dihydrocodeine
+Ethanol
+Acetone
+Methamphetamine
+Amphetamine
+Acetone
+Methamphetamine
+Amphetamine
+Ethanol
+Acetone
+No controlled substance(s) or common ph
+Cannabinoids
+Ethanol
+Acetone
+Cannabinoids
+Ethanol
+Acetone
+Methadone
+Ethanol
+Acetone
+Tramadol
+Diazepam
+Nordiazepam
+Temazepam
+Ethanol
+Acetone
+Nordiazepam
+Ethanol
+Acetone
+Tramadol
+Gabapentin
+Trazodone
+Diazepam
+Nordiazepam
+Oxazepam
+Clonazepam
+7-Aminoclonazepam
+Oxycodone
+Quetiapine
+Mirtazapine
+Cannabinoids
+Methadone
+Ethanol
+Acetone
+Ethanol
+Acetone
+No controlled substance(s) or common ph
+Ethanol
+Acetone
+Cannabinoids
+Morphine, free
+Morphine-glucuronide, bound
+Morphine, total
+Codeine
+Ethanol
+Acetone
+Methadone
+Citalopram/Escitalopram
+Diazepam
+Nordiazepam
+Oxazepam
+Temazepam
+Lorazepam
+Hydrocodone
+Oxycodone
+Ethanol
+Acetone
+Oxymorphone
+7-Aminoclonazepam
+Gabapentin
+Trazodone
+Diphenhydramine
+Ethanol
+Acetone
+Methamphetamine
+Amphetamine
+Cannabinoids
+Zolpidem
+Quetiapine
+Lamotrigine
+Ethanol
+Acetone
+Barbiturates
+Ethanol
+Acetone
+Hydromorphone
+Alprazolam
+Cyclobenzaprine
+Zopiclone/Eszopiclone
+Ethanol
+Morphine, free
+Morphine-glucuronide, bound
+Morphine, total
+Lamotrigine
+Olanzapine
+Bupropion
+Ethanol
+Acetone
+Cannabinoids
+Morphine, free
+Morphine-glucuronide, bound
+Ethanol
+Acetone
+Cannabinoids
+Oxycodone
+Methadone
+Fentanyl
+Ethanol
+Acetone
+No controlled substance(s) or common ph
+Ethanol
+Acetone
+No controlled substance(s) or common ph
+Ethanol
+Acetone
+Methamphetamine
+Amphetamine
+Oxycodone
+Meprobamate
+Carisoprodol
+Ethanol
+Acetone
+No controlled substance(s) or common ph
+Ethanol
+Acetone
+Cannabinoids
+Morphine, free
+Morphine-glucuronide, bound
+Morphine, total
+6-Monoacetylmorphine
+Codeine
+Ethanol
+Acetone
+Oxymorphone
+Zolpidem
+Temazepam
+Acetaminophen
+Ethanol
+Acetone
+Hydrocodone
+Dihydrocodeine
+Oxycodone
+Alprazolam
+Nortriptyline
+Tramadol
+Ethanol
+Acetone
+Cannabinoids
+Carboxyhemoglobin (COHb)
+Methamphetamine
+Amphetamine
+Ethanol
+Acetone
+No controlled substance(s) or common ph
+Ethanol
+Acetone
+Morphine, free
+Morphine-glucuronide, bound
+Codeine
+Methamphetamine
+Amphetamine
+Benzoylecgonine
+Ecgonine methyl ester
+Cannabinoids
+Ethanol
+Acetone
+No controlled substance(s) or common ph
+Ethanol
+Acetone
+Hydrocodone
+Dihydrocodeine
+Citalopram/Escitalopram
+Gabapentin
+Trazodone
+Fluoxetine
+Ethanol
+Acetone
+Oxycodone
+Cyclobenzaprine
+Ethanol
+6-Monoacetylmorphine
+Codeine
+Acetone
+Ethanol
+Acetone
+6-Monoacetylmorphine
+Morphine, free
+Morphine-glucuronide, bound
+Codeine
+Morphine, free
+Morphine-glucuronide, bound
+Morphine, total
+Oxycodone
+Alprazolam
+7-Aminoclonazepam
+Clonazepam
+Diphenhydramine
+Doxylamine
+Ethanol
+Acetone
+Ethanol
+Acetone
+Hydrocodone
+Ketamine
+Ethanol
+Acetone
+No controlled substance(s) or common ph
+Ethanol
+Acetone
+Venlafaxine
+Cannabinoids
+No controlled substance(s) or common ph
+Ethanol
+Acetone
+Ethanol
+Acetone
+Diazepam
+Nordiazepam
+Temazepam
+Amitriptyline
+Nortriptyline
+Sertraline
+Methadone
+Amphetamine
+Bupropion
+Acetaminophen
+Ethanol
+Acetone
+Cannabinoids
+Ethanol
+Acetone
+No controlled substance(s) or common ph
+Ethanol
+Acetone
+Methadone
+Methamphetamine
+Amphetamine
+Citalopram/Escitalopram
+Ethanol
+Acetone
+Methadone
+Ethanol
+Acetone
+No controlled substance(s) or common ph
+Ethanol
+Acetone
+Cannabinoids
+Methamphetamine
+Amphetamine
+Ethanol
+Acetone
+Oxycodone
+Acetaminophen
+Trazodone
+Doxylamine
+Cetirizine
+Ethanol
+Acetone
+Zolpidem
+Venlafaxine
+Mirtazapine
+Lorazepam
+Temazepam
+Ethanol
+Acetone
+Cannabinoids
+Morphine, free
+Morphine-glucuronide, bound
+Acetone
+Cannabinoids
+Ethanol
+Acetone
+No controlled substance(s) or common ph
+Ethanol
+Acetone
+Lorazepam
+Cocaine
+Benzoylecgonine
+Ecgonine methyl ester
+Ethanol
+Acetone
+Cannabinoids
+Levamisole
+Morphine, free
+Morphine-glucuronide, bound
+Morphine, total
+Codeine
+Cocaine
+Benzoylecgonine
+Ecgonine methyl ester
+7-Aminoclonazepam
+Lidocaine
+Morphine, free
+Morphine-glucuronide, bound
+Morphine, total
+6-Monoacetylmorphine
+Codeine
+Ethanol
+Acetone
+Morphine, total
+Codeine
+Hydroxyzine
+Trazodone
+Tramadol
+Citalopram/Escitalopram
+Cyclobenzaprine
+Doxepin
+Ethanol
+Acetone
+Ethanol
+Acetone
+Hydrocodone
+Dihydrocodeine
+Alprazolam
+Amphetamine
+Lamotrigine
+Ethanol
+Acetone
+Cannabinoids
+Methamphetamine
+Amphetamine
+Ethanol
+Acetone
+No controlled substance(s) or common ph
+Ethanol
+Acetone
+Methamphetamine
+Amphetamine
+Cannabinoids
+Ethanol
+Acetone

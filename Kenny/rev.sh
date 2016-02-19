@@ -1,0 +1,2 @@
+#!/bin/sh
+perl -e 'my @file_list = glob "[a-zA-Z][a-zA-Z]"; foreach my $file (@file_list) { my $first_letter = substr $file, 0, 1; my $second_letter = substr $file, 1, 1; open (my $fh, ">", $file) or die "Could not open $file: $!."; print $fh "$second_letter$first_letter"; close $fh; }'

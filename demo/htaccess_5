@@ -1,0 +1,5 @@
+order deny,allow
+
+allow from scott.oreilly.com
+deny from oreilly.com
+deny from boat.scott.oreilly.com

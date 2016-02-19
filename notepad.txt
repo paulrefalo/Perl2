@@ -1,0 +1,31 @@
+sub Test_File
+{
+  Get_Orders( $Input_File );
+
+  my $way = 0;
+  open my $fh, '<', $Input_File or die "cannot open $Input_File:  $!";
+  my $order = <$fh>;
+  {
+    chomp $order;
+    my @orders = split (" ", $order);
+    unless ( $orders[0] eq "order" )
+    { die "No order directive in input."; }
+    unless ( $orders[1] eq "allow,deny" || $orders[1] eq "deny,allow" )
+    {
+      warn "Your papers are not in order.\n";
+      return;
+    }
+    my @seq = split (",", $orders[1]);
+    $way = 1 if $seq[0] eq "allow";
+    $way = 2 if $seq[1] eq "allow";
+    
+  }
+  while ( my $line = <$fh> )
+  {
+    chomp $line;
+    print "$line\n";
+  }
+
+
+  return;
+}

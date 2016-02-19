@@ -1,0 +1,2 @@
+#/bin/sh                                                                                                               
+perl -i.bak -nle 'print scalar reverse $_;' * 
